@@ -1,0 +1,1703 @@
+﻿IDPdv;Ciudad;Depto;Cadena;Canal;SubCanal;Tipologia;Regional;Formato;DiaEntregaPedidoNombre;Lat;Lon
+1596620;Santiago De Cali;VALLE DEL CAUCA;Abastecemos;Dtt;Smi;SMI M BASIC;Pacifico;Distrimarcas;;3,399039984;-76,57649994
+1596621;Bogota;BOGOTA D.C;Alkosto;Mt;Club;CLUB;Cundi-Boyaca;Alkosto;Lunes;6,164557;-75,604658
+1596622;Bogota;BOGOTA D.C;Alkosto;Mt;Club;CLUB;Cundi-Boyaca;Alkosto;Lunes;4,679433;-74,085287
+1596623;Barranquilla;ATLANTICO;Alkosto;Mt;Club;CLUB;Atlantico;Alkosto;Viernes;11,011688;-74,827955
+1596624;Pasto;NARINO;Alkosto;Mt;Club;SUPERG PREMIUM;Pacifico;Alkosto;Viernes;1,083610058;-77,20610046
+1596625;Santiago De Cali;VALLE DEL CAUCA;Alkosto;Mt;Club;CLUB;Pacifico;Alkosto;Jueves;3,399039984;-76,57649994
+1596626;Pasto;NARINO;Alkosto;Mt;Club;SUPERG PREMIUM;Pacifico;Alkosto;Viernes;1,083610058;-77,20610046
+1596627;Bogota;BOGOTA D.C;Alkosto;Mt;Club;CLUB;Cundi-Boyaca;Alkosto;Lunes;4,610953;-74,09511
+1596628;Bogota;BOGOTA D.C;Alkosto;Mt;Club;CLUB;Cundi-Boyaca;Alkosto;Lunes;4,316110134;-74,18109894
+1596629;Floridablanca;SANTANDER;Alkosto;Mt;Club;CLUB;Santanderes;Alkosto;Viernes;7,079699993;-73,06800079
+1596630;Ipiales;NARINO;Alkosto;Mt;Club;SUPERG PREMIUM;Pacifico;Alkosto;Viernes;0,558614016;-77,37039948
+1596631;Ipiales;NARINO;Alkosto;Mt;Club;SUPERG PREMIUM;Pacifico;Alkosto;Viernes;0,558614016;-77,37039948
+1596632;Pereira;RISARALDA;Alkosto;Mt;Club;CLUB;Eje Cafetero;Alkosto;Viernes;4,807678;-75,718477
+1596633;Bogota;BOGOTA D.C;Alkosto;Mt;Club;CLUB;Cundi-Boyaca;Alkosto;Lunes;4,596042;-74,139735
+1596634;Villavicencio;META;Alkosto;Mt;Club;CLUB;Llanos;Alkosto;Viernes;4,091670036;-73,49289703
+1596635;Palmira;VALLE DEL CAUCA;Canaveral;Dtt;Smi;SMI G BASIC;Pacifico;Corbeta;;3,519865;-76,30394
+1596636;Santiago De Cali;VALLE DEL CAUCA;Canaveral;Dtt;Smi;SMI G BASIC;Pacifico;Corbeta;;3,399039984;-76,57649994
+1596637;Santiago De Cali;VALLE DEL CAUCA;Canaveral;Dtt;Smi;SMI G PREMIUM;Pacifico;Corbeta;;3,399039984;-76,57649994
+1596638;Santiago De Cali;VALLE DEL CAUCA;Canaveral;Dtt;Smi;SMI G BASIC;Pacifico;Corbeta;;3,399039984;-76,57649994
+1596639;Jamundi;VALLE DEL CAUCA;Caribe;Dtt;Smi;SMI M BASIC;Pacifico;Tropicana;;3,213890076;-76,62760162
+1596640;Barranquilla;ATLANTICO;Cencosud;Mt;Ka;SUPERG BASIC;Atlantico;Jumbo;Viernes;10,98502;-74,813169
+1596641;Santa Marta;MAGDALENA;Cencosud;Mt;Ka;SUPERG BASIC;Atlantico;Jumbo;Viernes;11,21915;-74,20882
+1596642;Santiago De Cali;VALLE DEL CAUCA;Pricesmart;Mt;Club;CLUB;Pacifico;Pricesmart;;3,399039984;-76,57649994
+1596643;Pereira;RISARALDA;Pricesmart;Mt;Club;CLUB;Eje Cafetero;Pricesmart;;4,809148;-75,74311
+1596644;Bogota;BOGOTA D.C;Pricesmart;Mt;Club;CLUB;Cundi-Boyaca;Pricesmart;;4,666378;-74,11064
+1596645;Bogota;BOGOTA D.C;Pricesmart;Mt;Club;CLUB;Cundi-Boyaca;Pricesmart;;4,746503;-74,025261
+1596646;Cucuta;NORTE DE SANTANDER;Punto Y Fama;Dtt;Smi;SMI P;Santanderes;Pastor J Cucuta;;8,112030029;-72,48860168
+1596647;Cucuta;NORTE DE SANTANDER;Punto Y Fama;Dtt;Smi;SMI M BASIC;Santanderes;Pastor J Cucuta;;8,112030029;-72,48860168
+1596648;Santa Marta;MAGDALENA;Rapimercar;Dtt;Smi;SMI G BASIC;Atlantico;Tropicana;;11,244515;-74,206757
+1596649;Santa Marta;MAGDALENA;Rapimercar;Dtt;Smi;SMI G BASIC;Atlantico;Tropicana;;11,194117;-74,226657
+1596650;Santa Marta;MAGDALENA;Rapimercar;Dtt;Smi;SMI G BASIC;Atlantico;Tropicana;;11,219788;-74,181687
+1596651;Santa Marta;MAGDALENA;Rapimercar;Dtt;Smi;SMI M PREMIUM;Atlantico;Tropicana;;11,23647;-74,204617
+1596652;Santiago De Cali;VALLE DEL CAUCA;Rapimerque;Dtt;Smi;SMI M PREMIUM;Pacifico;Distrimarcas;;3,399039984;-76,57649994
+1596653;Santa Marta;MAGDALENA;San Isidro;Dtt;Mayorista;MAYORISTA;Atlantico;San Isidro;;11,245755;-74,20548
+1596654;Santa Marta;MAGDALENA;San Isidro;Dtt;Mayorista;MAYORISTA;Atlantico;San Isidro;;11,244585;-74,206692
+1596655;Santa Marta;MAGDALENA;San Isidro;Dtt;Mayorista;MAYORISTA;Atlantico;San Isidro;;11,246392;-74,206207
+1596656;Santa Marta;MAGDALENA;San Isidro;Dtt;Mayorista;MAYORISTA;Atlantico;San Isidro;;11,194207;-74,22606
+1596657;Santa Marta;MAGDALENA;San Isidro;Dtt;Mayorista;MAYORISTA;Atlantico;San Isidro;;11,244522;-74,206867
+1596658;Santa Marta;MAGDALENA;San Isidro;Dtt;Mayorista;MAYORISTA;Atlantico;San Isidro;;11,245953;-74,206197
+1596659;Valledupar;CESAR;Servivalle;Dtt;Mayorista;MAYORISTA;Atlantico;Servivalle;;10,46574;-73,247318
+1596660;Valledupar;CESAR;Servivalle;Dtt;Mayorista;MAYORISTA;Atlantico;Servivalle;;10,465272;-73,247573
+1596661;Valledupar;CESAR;Servivalle;Dtt;Mayorista;MAYORISTA;Atlantico;Servivalle;;10,465643;-73,247022
+1596662;Santiago De Cali;VALLE DEL CAUCA;Su Papa;Dtt;Smi;SMI M BASIC;Pacifico;Tropicana;;3,399039984;-76,57649994
+1596663;Santiago De Cali;VALLE DEL CAUCA;Super A;Dtt;Smi;SMI M PREMIUM;Pacifico;Distrimarcas;;3,453163;-76,548043
+1596664;Bucaramanga;SANTANDER;Cencosud;Mt;Ka;SUPERG PREMIUM;Santanderes;Jumbo;Sabado;7,155829906;-73,11160278
+1596665;Barranquilla;ATLANTICO;Cencosud;Mt;Ka;SUPERG PREMIUM;Atlantico;Jumbo;Viernes;11,012717;-74,828517
+1596666;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Jumbo;Jueves - Lunes;4,712658;-74,07117
+1596667;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;HYPER PREMIUM;Cundi-Boyaca;Jumbo;Jueves - Lunes;4,756763;-74,06454
+1596668;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;HYPER PREMIUM;Cundi-Boyaca;Jumbo;Jueves - Lunes;4,690963;-74,084652
+1596669;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Jumbo;Jueves - Lunes;4,617508;-74,090262
+1596670;Cartagena;BOLIVAR;Cencosud;Mt;Ka;HYPER PREMIUM;Atlantico;Jumbo;Viernes;10,413207;-75,529805
+1596671;Chia;CUNDINAMARCA;Cencosud;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Jumbo;Jueves - Lunes;4,864128;-74,043407
+1596672;Chia;CUNDINAMARCA;Cencosud;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Jumbo;Jueves - Lunes;4,865449905;-74,03690338
+1596673;Santiago De Cali;VALLE DEL CAUCA;Cencosud;Mt;Ka;SUPERG PREMIUM;Pacifico;Jumbo;Jueves - Lunes;3,399039984;-76,57649994
+1596674;Medellin;ANTIOQUIA;Cencosud;Mt;Ka;HYPER BASIC;Antioquia-Choco;Jumbo;Miercoles;6,253898;-75,58336
+1596675;Cartagena;BOLIVAR;Cencosud;Mt;Ka;SUPERG BASIC;Atlantico;Jumbo;Viernes;10,42378;-75,540878
+1596676;Girardot;CUNDINAMARCA;Cencosud;Mt;Ka;SUPERG BASIC;Centro;Jumbo;Jueves - Lunes;4,30512;-74,804265
+1596677;Valledupar;CESAR;Cencosud;Mt;Ka;SUPERG PREMIUM;Atlantico;Jumbo;Viernes;10,493878;-73,269688
+1596678;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;HYPER PREMIUM;Cundi-Boyaca;Jumbo;Jueves - Lunes;4,653353;-74,127471
+1596679;Medellin;ANTIOQUIA;Cencosud;Mt;Ka;HYPER PREMIUM;Antioquia-Choco;Jumbo;Miercoles;6,186542;-75,582795
+1596680;Pereira;RISARALDA;Cencosud;Mt;Ka;SUPERG BASIC;Eje Cafetero;Jumbo;Jueves - Lunes;4,808685;-75,743243
+1596681;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Jumbo;Jueves - Lunes;4,63261;-74,115228
+1596682;Popayan;CAUCA;Cencosud;Mt;Ka;SUPERG PREMIUM;Pacifico;Jumbo;Jueves - Lunes;2,471699953;-76,59190369
+1596683;Santiago De Cali;VALLE DEL CAUCA;Cencosud;Mt;Ka;SUPERG BASIC;Pacifico;Jumbo;Jueves - Lunes;3,399039984;-76,57649994
+1596684;Medellin;ANTIOQUIA;Cencosud;Mt;Ka;SUPERG PREMIUM;Antioquia-Choco;Jumbo;Miercoles;6,229202;-75,57129
+1596685;Barranquilla;ATLANTICO;Cencosud;Mt;Ka;HYPER PREMIUM;Atlantico;Jumbo;Viernes;10,999647;-74,809323
+1596686;Bogota;BOGOTA D.C;Homesentry;Mt;Club;CLUB;Cundi-Boyaca;Homesentry;Sabado;4,67197;-74,088407
+1596687;Santiago De Cali;VALLE DEL CAUCA;Homesentry;Mt;Club;CLUB;Pacifico;Homesentry;Lunes;3,399039984;-76,57649994
+1596688;Arauca;ARAUCA;Independientes;Dtt;Smi;SMI P;Llanos;Tropiabastos;;6,796279907;-70,50920105
+1596689;Flandes;TOLIMA;Supermercados K;Dtt;Smi;SMI P;Centro;Tropiabastos;;4,291277;-74,807587
+1596690;Caucasia;ANTIOQUIA;Independientes;Dtt;Smi;SMI G BASIC;Antioquia-Choco;Surtiventas;;7,867939949;-75,03500366
+1596691;El Bagre;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;7,704629898;-74,66429901
+1596692;Zaragoza;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;7,473999977;-74,85849762
+1596693;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI G BASIC;Antioquia-Choco;Surtiventas;;6,244229;-75,594086
+1596694;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI P;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596695;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596696;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596697;La Ceja;ANTIOQUIA;Independientes;Dtt;Smi;SMI M PREMIUM;Antioquia-Choco;Surtiventas;;5,992519855;-75,43090057
+1596698;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596699;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596700;La Ceja;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;5,992519855;-75,43090057
+1596701;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596702;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI M PREMIUM;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596703;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596704;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI P;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596705;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596706;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI P;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596707;Medellin;ANTIOQUIA;Super Vaquita;Dtt;Smi;SMI G BASIC;Antioquia-Choco;Tropicana;;6,238702;-75,606894
+1596708;Medellin;ANTIOQUIA;Super Vaquita;Dtt;Smi;SMI G PREMIUM;Antioquia-Choco;Tropicana;;6,191693;-75,566245
+1596709;Medellin;ANTIOQUIA;Super Vaquita;Dtt;Smi;SMI M PREMIUM;Antioquia-Choco;Tropicana;;6,152147;-75,611638
+1596710;Medellin;ANTIOQUIA;Super Vaquita;Dtt;Smi;SMI P;Antioquia-Choco;Tropicana;;6,278697;-75,634102
+1596711;Rionegro;ANTIOQUIA;Super Vaquita;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Tropicana;;6,151328;-75,39147
+1596712;Bogota;BOGOTA D.C;Supermercado La Nuestra;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596713;Bogota;BOGOTA D.C;Supermercado La Nuestra;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596714;Bogota;BOGOTA D.C;Supermercado La Nuestra;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596715;Bogota;BOGOTA D.C;Supermercado Premium;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596716;Bogota;BOGOTA D.C;Supermercado Premium;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596717;Bogota;BOGOTA D.C;Supermercado Premium;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596718;Bogota;BOGOTA D.C;Supermercados Porvenir;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596719;Bogota;BOGOTA D.C;Supermercados Porvenir;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596720;Bogota;BOGOTA D.C;Supermercados Porvenir;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596721;Bogota;BOGOTA D.C;Supermercados Porvenir;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596722;Santiago De Cali;VALLE DEL CAUCA;Surtifamiliar;Dtt;Smi;SMI M BASIC;Pacifico;Corbeta;;3,399039984;-76,57649994
+1596723;Santiago De Cali;VALLE DEL CAUCA;Surtifamiliar;Dtt;Smi;SMI M BASIC;Pacifico;Corbeta;;3,399039984;-76,57649994
+1596724;Ibague;TOLIMA;Surtilima;Dtt;Mayorista;MAYORISTA;Centro;Surtilima;;4,440632;-75,232725
+1596725;Ibague;TOLIMA;Surtilima;Dtt;Mayorista;MAYORISTA;Centro;Surtilima;;4,4407;-75,23299
+1596726;Ibague;TOLIMA;Surtilima;Dtt;Mayorista;MAYORISTA;Centro;Surtilima;;4,440688;-75,233315
+1596727;Ibague;TOLIMA;Surtilima;Dtt;Mayorista;MAYORISTA;Centro;Surtilima;;4,440618;-75,233387
+1596728;Rionegro;ANTIOQUIA;Cencosud;Mt;Ka;SUPERG BASIC;Antioquia-Choco;Jumbo;Miercoles;6,141033;-75,379532
+1596729;Barrancabermeja;SANTANDER;Cencosud;Mt;Ka;SUPERG BASIC;Santanderes;Jumbo;Sabado;7,054069996;-73,78209686
+1596730;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;HYPER PREMIUM;Cundi-Boyaca;Jumbo;Jueves - Lunes;4,690708;-74,03659
+1596731;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Jumbo;Jueves - Lunes;4,763165;-74,046152
+1596732;Medellin;ANTIOQUIA;Cencosud;Mt;Ka;SUPERG PREMIUM;Antioquia-Choco;Jumbo;Miercoles;6,195668;-75,574052
+1596733;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Jumbo;Jueves - Lunes;4,749213;-74,096627
+1596734;Bucaramanga;SANTANDER;Cencosud;Mt;Ka;SUPERP BASIC;Santanderes;Jumbo;Sabado;7,155829906;-73,11160278
+1596735;Bucaramanga;SANTANDER;Cencosud;Mt;Ka;SUPERG PREMIUM;Santanderes;Jumbo;Sabado;7,155829906;-73,11160278
+1596736;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Jumbo;Jueves - Lunes;4,695387;-74,085903
+1596737;Tunja;BOYACA;Cencosud;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Jumbo;Jueves - Lunes;5,546323;-73,3501
+1596738;Santiago De Cali;VALLE DEL CAUCA;Cencosud;Mt;Ka;HYPER PREMIUM;Pacifico;Jumbo;Jueves - Lunes;3,399039984;-76,57649994
+1596739;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Metro;Jueves - Lunes;4,602148;-74,133737
+1596740;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Metro;Jueves - Lunes;4,596825;-74,166725
+1596741;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;SUPERP BASIC;Cundi-Boyaca;Metro;Jueves - Lunes;4,632155;-74,14587
+1596742;Bello;ANTIOQUIA;Cencosud;Mt;Ka;SUPERG BASIC;Antioquia-Choco;Metro;Miercoles;6,31755;-75,557582
+1596743;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Metro;Jueves - Lunes;4,630133;-74,19461
+1596744;Guadalajara De Buga;VALLE DEL CAUCA;Cencosud;Mt;Ka;SUPERG BASIC;Pacifico;Metro;Jueves - Lunes;3,855249882;-76,10510254
+1596745;Cartago;VALLE DEL CAUCA;Cencosud;Mt;Ka;SUPERG BASIC;Pacifico;Metro;Jueves - Lunes;4,706850052;-75,91790009
+1596746;Pereira;RISARALDA;Cencosud;Mt;Ka;SUPERG BASIC;Eje Cafetero;Metro;Jueves - Lunes;4,835363;-75,669197
+1596747;Duitama;BOYACA;Cencosud;Mt;Ka;SUPERP BASIC;Cundi-Boyaca;Metro;Jueves - Lunes;5,832397;-73,03245
+1596748;Facatativa;CUNDINAMARCA;Cencosud;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Metro;Jueves - Lunes;4,819633;-74,358213
+1596749;Copacabana;ANTIOQUIA;Independientes;Dtt;Smi;SMI P;Antioquia-Choco;Surtiventas;;6,351880074;-75,50080109
+1596750;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596751;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI P;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596752;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596753;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596754;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596755;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI P;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596756;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596757;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596758;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI P;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596759;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596760;Marinilla;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,185200214;-75,30490112
+1596761;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596762;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI G BASIC;Antioquia-Choco;Tropicana;;6,18807;-75,58851
+1596763;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Corbeta;;4,316110134;-74,18109894
+1596764;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Corbeta;;4,316110134;-74,18109894
+1596765;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Corbeta;;4,316110134;-74,18109894
+1596766;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596767;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI M BASIC;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596768;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596769;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596770;Ibague;TOLIMA;Surtilima;Dtt;Mayorista;MAYORISTA;Centro;Surtilima;;4,441047;-75,233495
+1596771;Ibague;TOLIMA;Surtilima;Dtt;Mayorista;MAYORISTA;Centro;Surtilima;;4,440507;-75,232397
+1596772;Ibague;TOLIMA;Surtilima;Dtt;Mayorista;MAYORISTA;Centro;Surtilima;;4,440757;-75,233442
+1596773;Ibague;TOLIMA;Surtilima;Dtt;Mayorista;MAYORISTA;Centro;Surtilima;;4,451920033;-75,25260162
+1596774;Ibague;TOLIMA;Surtilima;Dtt;Mayorista;MAYORISTA;Centro;Surtilima;;4,440922;-75,233527
+1596775;Ibague;TOLIMA;Surtilima;Dtt;Mayorista;MAYORISTA;Centro;Surtilima;;4,451920033;-75,25260162
+1596776;Ibague;TOLIMA;Surtiplaza;Dtt;Smi;SMI G PREMIUM;Centro;Tropicana;;4,451920033;-75,25260162
+1596777;Ibague;TOLIMA;Surtiplaza;Dtt;Smi;SMI G BASIC;Centro;Tropicana;;4,451920033;-75,25260162
+1596778;Ibague;TOLIMA;Surtiplaza;Dtt;Smi;SMI M BASIC;Centro;Tropicana;;4,451920033;-75,25260162
+1596779;Santiago De Cali;VALLE DEL CAUCA;Surtivalle;Dtt;Mayorista;MAYORISTA;Pacifico;Surtivalle;;3,399039984;-76,57649994
+1596780;Santiago De Cali;VALLE DEL CAUCA;Surtivalle;Dtt;Mayorista;MAYORISTA;Pacifico;Surtivalle;;3,399039984;-76,57649994
+1596781;Santiago De Cali;VALLE DEL CAUCA;Surtivalle;Dtt;Mayorista;MAYORISTA;Pacifico;Surtivalle;;3,399039984;-76,57649994
+1596782;Santiago De Cali;VALLE DEL CAUCA;Surtivalle;Dtt;Mayorista;MAYORISTA;Pacifico;Surtivalle;;3,399039984;-76,57649994
+1596783;Santiago De Cali;VALLE DEL CAUCA;Surtivalle;Dtt;Mayorista;MAYORISTA;Pacifico;Surtivalle;;3,399039984;-76,57649994
+1596784;Santiago De Cali;VALLE DEL CAUCA;Surtivalle;Dtt;Mayorista;MAYORISTA;Pacifico;Surtivalle;;3,399039984;-76,57649994
+1596785;Santiago De Cali;VALLE DEL CAUCA;Surtivalle;Dtt;Mayorista;MAYORISTA;Pacifico;Surtivalle;;3,399039984;-76,57649994
+1596786;Santiago De Cali;VALLE DEL CAUCA;Surtivalle;Dtt;Mayorista;MAYORISTA;Pacifico;Surtivalle;;3,399039984;-76,57649994
+1596787;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,62933;-74,158007
+1596788;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,629595;-74,159102
+1596789;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,631042;-74,158585
+1596790;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,627935;-74,159242
+1596791;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,628377;-74,159618
+1596792;Bucaramanga;SANTANDER;Cencosud;Mt;Ka;HYPER BASIC;Santanderes;Metro;Sabado;7,155829906;-73,11160278
+1596793;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Metro;Jueves - Lunes;4,316110134;-74,18109894
+1596794;Bucaramanga;SANTANDER;Cencosud;Mt;Ka;SUPERG BASIC;Santanderes;Metro;Sabado;7,155829906;-73,11160278
+1596795;Ibague;TOLIMA;Cencosud;Mt;Ka;HYPER BASIC;Centro;Metro;Viernes - Lunes;4,43797;-75,201482
+1596796;Itagui;ANTIOQUIA;Cencosud;Mt;Ka;SUPERG BASIC;Antioquia-Choco;Metro;Miercoles;6,173893;-75,612287
+1596797;Santiago De Cali;VALLE DEL CAUCA;Cencosud;Mt;Ka;SUPERG BASIC;Pacifico;Metro;Jueves - Lunes;3,399039984;-76,57649994
+1596798;Cucuta;NORTE DE SANTANDER;Cencosud;Mt;Ka;HYPER BASIC;Santanderes;Metro;Sabado;8,112030029;-72,48860168
+1596799;Valledupar;CESAR;Cencosud;Mt;Ka;SUPERG BASIC;Atlantico;Metro;Viernes;10,45584;-73,240643
+1596800;Monteria;CORDOBA;Cencosud;Mt;Ka;SUPERG BASIC;Atlantico;Metro;Viernes;8,750645;-75,890897
+1596801;Mosquera;CUNDINAMARCA;Cencosud;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Metro;Jueves - Lunes;4,702533;-74,223025
+1596802;Neiva;HUILA;Cencosud;Mt;Ka;SUPERG BASIC;Centro;Metro;Viernes - Lunes;2,937846;-75,293828
+1596803;Pasto;NARINO;Cencosud;Mt;Ka;SUPERG BASIC;Pacifico;Metro;Jueves - Lunes;1,083610058;-77,20610046
+1596804;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Metro;Jueves - Lunes;4,677284;-74,116583
+1596805;Neiva;HUILA;Cencosud;Mt;Ka;SUPERG BASIC;Centro;Metro;Viernes - Lunes;2,934707;-75,248605
+1596806;Soacha;CUNDINAMARCA;Cencosud;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Metro;Jueves - Lunes;4,588988;-74,205045
+1596807;Sogamoso;BOYACA;Cencosud;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Metro;Jueves - Lunes;5,713137;-72,930687
+1596808;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Metro;Jueves - Lunes;4,316110134;-74,18109894
+1596809;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Metro;Jueves - Lunes;4,569403;-74,100097
+1596810;Cucuta;NORTE DE SANTANDER;Cencosud;Mt;Ka;SUPERG BASIC;Santanderes;Metro;Sabado;8,112030029;-72,48860168
+1596811;Zipaquira;CUNDINAMARCA;Cencosud;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Metro;Jueves - Lunes;5,026145;-73,992603
+1596812;Tunja;BOYACA;Chispasos;Dtt;Smi;SMI M PREMIUM;Cundi-Boyaca;Pastor J Duitama;;5,54303;-73,35938
+1596813;Tunja;BOYACA;Chispasos;Dtt;Smi;SMI M PREMIUM;Cundi-Boyaca;Pastor J Duitama;;5,530323;-73,363057
+1596814;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596816;Girardot;CUNDINAMARCA;Supermercados K;Dtt;Smi;SMI P;Centro;Surtilima;;4,29305;-74,80884
+1596817;Espinal;TOLIMA;Independientes;Dtt;Smi;SMI G PREMIUM;Cundi-Boyaca;Surtilima;;4,166480064;-74,89350128
+1596818;Bello;ANTIOQUIA;Independientes;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,303735;-75,547623
+1596819;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596820;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596821;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596822;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596823;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596824;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;1,202843;-77,293652
+1596825;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,559212;-74,143923
+1596826;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596827;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI M BASIC;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596828;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596829;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596830;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596831;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,580333;-74,142642
+1596832;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596833;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596834;Mosquera;CUNDINAMARCA;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;8,584699631;-75,95059967
+1596835;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,629785;-74,158675
+1596836;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,628503;-74,158533
+1596837;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,628658;-74,15992
+1596838;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,627752;-74,1592
+1596839;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,627997;-74,158342
+1596840;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596841;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,628238;-74,15872
+1596842;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,627878;-74,158543
+1596843;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596844;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,630962;-74,158667
+1596845;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,628938;-74,159977
+1596846;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,627782;-74,159018
+1596847;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,630818;-74,157792
+1596848;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,630813;-74,157612
+1596849;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,62807;-74,158645
+1596850;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,63059;-74,157503
+1596851;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,631282;-74,158558
+1596852;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,627787;-74,158443
+1596853;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596854;Barranquilla;ATLANTICO;Tropicana;Dtt;Mayorista;MAYORISTA;Atlantico;Tropicana;;10,98149967;-74,82769775
+1596855;Barranquilla;ATLANTICO;Tropicana;Dtt;Mayorista;MAYORISTA;Atlantico;Tropicana;;10,98211;-74,774838
+1596856;Barranquilla;ATLANTICO;Tropicana;Dtt;Mayorista;MAYORISTA;Atlantico;Tropicana;;10,980307;-74,775333
+1596857;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Colsubsidio;;4,625635;-74,09255
+1596858;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Colsubsidio;;4,609522;-74,112563
+1596859;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP BASIC;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1596860;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP BASIC;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1596861;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP BASIC;Cundi-Boyaca;Colsubsidio;;4,735453;-74,052673
+1596862;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1596863;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Colsubsidio;;4,714774;-74,030196
+1596864;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Colsubsidio;;4,75716;-74,046347
+1596865;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP BASIC;Cundi-Boyaca;Colsubsidio;;4,59842;-74,10054
+1596866;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Colsubsidio;;4,722437;-74,114357
+1596867;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP BASIC;Cundi-Boyaca;Colsubsidio;;4,696268;-74,031698
+1596868;Neiva;HUILA;Comfamiliar;Dtt;Smi;SMI M BASIC;Centro;Tropihuila;;2,92987;-75,289199
+1596869;Neiva;HUILA;Comfamiliar;Dtt;Smi;SMI M BASIC;Centro;Tropihuila;;2,958766;-75,288377
+1596870;Santiago De Cali;VALLE DEL CAUCA;Comfandi;Mt;Ka;SMI P;Pacifico;Comfandi;;3,399039984;-76,57649994
+1596871;Santiago De Cali;VALLE DEL CAUCA;Comfandi;Mt;Ka;SMI G BASIC;Pacifico;Comfandi;;3,399039984;-76,57649994
+1596872;Santiago De Cali;VALLE DEL CAUCA;Comfandi;Mt;Ka;SMI M BASIC;Pacifico;Comfandi;;3,399039984;-76,57649994
+1596873;Tulua;VALLE DEL CAUCA;Comfandi;Mt;Ka;SMI G;Pacifico;Comfandi;;4,028409958;-76,03250122
+1596874;Santiago De Cali;VALLE DEL CAUCA;Comfandi;Mt;Ka;SMI M BASIC;Pacifico;Comfandi;;3,399039984;-76,57649994
+1596875;Medellin;ANTIOQUIA;Cooperativa De Consumo;Dtt;Smi;SMI P;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596876;Medellin;ANTIOQUIA;Cooperativa De Consumo;Dtt;Smi;SMI P;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596877;Medellin;ANTIOQUIA;Cooperativa De Consumo;Dtt;Smi;SMI P;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596878;Medellin;ANTIOQUIA;Cooperativa De Consumo;Dtt;Smi;SMI P;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1596879;Mosquera;CUNDINAMARCA;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;8,584699631;-75,95059967
+1596880;Mosquera;CUNDINAMARCA;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;8,584699631;-75,95059967
+1596881;Madrid;CUNDINAMARCA;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,772679806;-74,25980377
+1596882;Facatativa;CUNDINAMARCA;Independientes;Dtt;Smi;SMI G BASIC;Cundi-Boyaca;Tropiabastos;;4,834050179;-74,33799744
+1596883;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,514728;-74,116203
+1596884;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596885;Facatativa;CUNDINAMARCA;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,834050179;-74,33799744
+1596886;Girardot;CUNDINAMARCA;Supermercados K;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,291698;-74,808063
+1596887;Girardot;CUNDINAMARCA;Supermercados K;Dtt;Smi;SMI M BASIC;Cundi-Boyaca;Tropiabastos;;4,302577;-74,80333
+1596888;Medellin;ANTIOQUIA;Independientes;Dtt;Smi;SMI G BASIC;Antioquia-Choco;Tropicana;;6,187783;-75,58865
+1596889;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Corbeta;;4,316110134;-74,18109894
+1596890;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Corbeta;;4,316110134;-74,18109894
+1596891;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI G;Cundi-Boyaca;Corbeta;;4,316110134;-74,18109894
+1596892;Bogota;BOGOTA D.C;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Corbeta;;4,316110134;-74,18109894
+1596893;Paipa;BOYACA;Independientes;Dtt;Smi;SMI P;Cundi-Boyaca;Pastor J Duitama;;5,782562;-73,1191
+1596894;Santiago De Cali;VALLE DEL CAUCA;Independientes;Dtt;Smi;SMI M BASIC;Pacifico;Surtivalle;;3,399039984;-76,57649994
+1596895;Santiago De Cali;VALLE DEL CAUCA;Independientes;Dtt;Smi;SMI M BASIC;Pacifico;Surtivalle;;3,399039984;-76,57649994
+1596896;Barranquilla;ATLANTICO;Independientes;Dtt;Smi;SMI P;Atlantico;Tropicana;;10,966927;-74,835788
+1596897;Neiva;HUILA;Independientes;Dtt;Smi;SMI P;Centro;Tropicana;;2,893922;-75,281023
+1596898;Armenia;QUINDIO;Independientes;Dtt;Smi;SMI M PREMIUM;Eje Cafetero;Tropicana;;4,560138;-75,655478
+1596899;Arauca;ARAUCA;Independientes;Dtt;Smi;SMI P;Llanos;Tropicana;;6,796279907;-70,50920105
+1596900;Soledad;ATLANTICO;Tropicana;Dtt;Mayorista;MAYORISTA;Atlantico;Tropicana;;10,90690041;-74,77839661
+1596901;Medellin;ANTIOQUIA;Tropicana;Dtt;Mayorista;MAYORISTA;Antioquia-Choco;Tropicana;;6,257589817;-75,61100006
+1596902;Medellin;ANTIOQUIA;Tropicana;Dtt;Mayorista;MAYORISTA;Antioquia-Choco;Tropicana;;6,257589817;-75,61100006
+1596903;Medellin;ANTIOQUIA;Tropicana;Dtt;Mayorista;MAYORISTA;Antioquia-Choco;Tropicana;;6,257589817;-75,61100006
+1596904;Medellin;ANTIOQUIA;Tropicana;Dtt;Mayorista;MAYORISTA;Antioquia-Choco;Tropicana;;6,257589817;-75,61100006
+1596905;Medellin;ANTIOQUIA;Tropicana;Dtt;Mayorista;MAYORISTA;Antioquia-Choco;Tropicana;;6,257589817;-75,61100006
+1596906;Medellin;ANTIOQUIA;Tropicana;Dtt;Mayorista;MAYORISTA;Antioquia-Choco;Tropicana;;6,257589817;-75,61100006
+1596907;Medellin;ANTIOQUIA;Tropicana;Dtt;Mayorista;MAYORISTA;Antioquia-Choco;Tropicana;;6,257589817;-75,61100006
+1596908;Medellin;ANTIOQUIA;Tropicana;Dtt;Mayorista;MAYORISTA;Antioquia-Choco;Tropicana;;6,257589817;-75,61100006
+1596909;Medellin;ANTIOQUIA;Tropicana;Dtt;Mayorista;MAYORISTA;Antioquia-Choco;Tropicana;;6,257589817;-75,61100006
+1596910;Cartagena;BOLIVAR;Tropicana;Dtt;Mayorista;MAYORISTA;Atlantico;Tropicana;;10,44919968;-75,46990204
+1596911;Cartagena;BOLIVAR;Tropicana;Dtt;Mayorista;MAYORISTA;Atlantico;Tropicana;;10,44919968;-75,46990204
+1596912;Cartagena;BOLIVAR;Tropicana;Dtt;Mayorista;MAYORISTA;Atlantico;Tropicana;;10,44919968;-75,46990204
+1596913;Bogota;BOGOTA D.C;Tropicana;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Corbeta;;4,604177;-74,08432
+1596914;Bogota;BOGOTA D.C;Tropicana;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Corbeta;;4,316110134;-74,18109894
+1596915;Soledad;ATLANTICO;Tropicana;Dtt;Mayorista;MAYORISTA;Atlantico;Tropicana;;10,90690041;-74,77839661
+1596916;Soledad;ATLANTICO;Tropicana;Dtt;Mayorista;MAYORISTA;Atlantico;Tropicana;;10,90690041;-74,77839661
+1596917;Barranquilla;ATLANTICO;Tropicana;Dtt;Mayorista;MAYORISTA;Atlantico;Tropicana;;10,98149967;-74,82769775
+1596918;Barranquilla;ATLANTICO;Tropicana;Dtt;Mayorista;MAYORISTA;Atlantico;Tropicana;;10,98149967;-74,82769775
+1596919;Barranquilla;ATLANTICO;Tropicana;Dtt;Mayorista;MAYORISTA;Atlantico;Tropicana;;10,98149967;-74,82769775
+1596920;Barranquilla;ATLANTICO;Tropicana;Dtt;Mayorista;MAYORISTA;Atlantico;Tropicana;;10,98149967;-74,82769775
+1596922;Bogota;BOGOTA D.C;Corbeta;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Corbeta;;4,604212;-74,083698
+1596923;Bogota;BOGOTA D.C;Corbeta;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Corbeta;;4,604203;-74,084292
+1596924;Bogota;BOGOTA D.C;Corbeta;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Corbeta;;4,604422;-74,084418
+1596925;Bogota;BOGOTA D.C;Corbeta;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Corbeta;;4,604308;-74,08389
+1596926;Bogota;BOGOTA D.C;Corbeta;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Corbeta;;4,316110134;-74,18109894
+1596927;Bogota;BOGOTA D.C;Corbeta;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Corbeta;;4,603627;-74,084193
+1596928;Bogota;BOGOTA D.C;Corbeta;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Corbeta;;4,604215;-74,083695
+1596929;Bogota;BOGOTA D.C;Corbeta;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Corbeta;;4,316110134;-74,18109894
+1596930;Bogota;BOGOTA D.C;Corbeta;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Corbeta;;4,316110134;-74,18109894
+1596931;Cucuta;NORTE DE SANTANDER;El Descuento;Dtt;Smi;SMI M BASIC;Santanderes;Pastor J Cucuta;;8,112030029;-72,48860168
+1596932;Bogota;BOGOTA D.C;El Mercadeo;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596933;Bogota;BOGOTA D.C;El Mercadeo;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596934;Bogota;BOGOTA D.C;El Mercadeo;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596935;Bogota;BOGOTA D.C;El Mercadeo;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596936;Bogota;BOGOTA D.C;El Mercadeo;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1596937;Bucaramanga;SANTANDER;El Super;Dtt;Smi;SMI M BASIC;Santanderes;Pastor J Bucaramanga;;7,155829906;-73,11160278
+1596938;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Antioquia-Choco;Exito;Miercoles - Sabado;6,217533;-75,598725
+1596939;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Antioquia-Choco;Exito;Miercoles - Sabado;6,238697;-75,586898
+1596940;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,699265;-74,056093
+1596941;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Pacifico;Carulla;Lunes - Viernes;3,399039984;-76,57649994
+1596942;Armenia;QUINDIO;Independientes;Dtt;Smi;SMI M BASIC;Eje Cafetero;Tropicana;;4,532347;-75,675525
+1596943;Pereira;RISARALDA;Independientes;Dtt;Smi;SMI G BASIC;Eje Cafetero;Tropicana;;4,781290054;-75,71240234
+1596944;Pereira;RISARALDA;Independientes;Dtt;Smi;SMI P;Eje Cafetero;Tropicana;;4,781290054;-75,71240234
+1596945;Pereira;RISARALDA;Independientes;Dtt;Smi;SMI P;Eje Cafetero;Tropicana;;4,781290054;-75,71240234
+1596946;Pereira;RISARALDA;Independientes;Dtt;Smi;SMI G BASIC;Eje Cafetero;Tropicana;;4,807047;-75,766542
+1596947;Pereira;RISARALDA;Independientes;Dtt;Smi;SMI P;Eje Cafetero;Tropicana;;4,781290054;-75,71240234
+1596948;Pereira;RISARALDA;Independientes;Dtt;Smi;SMI M BASIC;Eje Cafetero;Tropicana;;4,866248;-75,620218
+1596949;Pereira;RISARALDA;Independientes;Dtt;Smi;SMI M BASIC;Eje Cafetero;Tropicana;;4,781290054;-75,71240234
+1596950;Soledad;ATLANTICO;Independientes;Dtt;Smi;SMI P;Atlantico;Tropicana;;10,90690041;-74,77839661
+1596951;Soledad;ATLANTICO;Independientes;Dtt;Smi;SMI P;Atlantico;Tropicana;;10,90690041;-74,77839661
+1596952;Cerete;CORDOBA;Independientes;Dtt;Smi;SMI M BASIC;Atlantico;Tropicana;;8,891010284;-75,83460236
+1596953;La Apartada;CORDOBA;Independientes;Dtt;Smi;SMI M BASIC;Atlantico;Tropicana;;8,052220345;-75,28820038
+1596954;Envigado;ANTIOQUIA;Inversiones Euro;Mt;Smi;SMI M BASIC;Antioquia-Choco;Inversiones Euro;Martes;6,167667;-75,588535
+1596955;Monteria;CORDOBA;Inversiones Euro;Mt;Smi;SMI M BASIC;Atlantico;Inversiones Euro;Martes;8,75604;-75,871278
+1596956;Monteria;CORDOBA;Inversiones Euro;Mt;Smi;SMI M BASIC;Atlantico;Inversiones Euro;Martes;8,76428;-75,872963
+1596957;Medellin;ANTIOQUIA;Inversiones Euro;Mt;Smi;SMI M PREMIUM;Antioquia-Choco;Inversiones Euro;Martes;6,231202;-75,591365
+1596958;Medellin;ANTIOQUIA;Inversiones Euro;Mt;Smi;SMI G;Antioquia-Choco;Inversiones Euro;Martes;6,21268;-75,594377
+1596959;Medellin;ANTIOQUIA;Inversiones Euro;Mt;Smi;SMI M BASIC;Antioquia-Choco;Inversiones Euro;Martes;6,259943;-75,570985
+1596960;Medellin;ANTIOQUIA;Inversiones Euro;Mt;Smi;SMI M BASIC;Antioquia-Choco;Inversiones Euro;Martes;6,165317;-75,575783
+1596961;Rionegro;ANTIOQUIA;Inversiones Euro;Mt;Smi;SMI M PREMIUM;Antioquia-Choco;Inversiones Euro;Martes;6,123317;-75,42168
+1596962;Bello;ANTIOQUIA;Inversiones Euro;Mt;Smi;SMI G BASIC;Antioquia-Choco;Inversiones Euro;Martes;6,338653;-75,544807
+1596963;Medellin;ANTIOQUIA;Inversiones Euro;Mt;Smi;SMI G PREMIUM;Antioquia-Choco;Inversiones Euro;Martes;6,220536;-75,566808
+1596964;Armenia;QUINDIO;Tropitiendas;Dtt;Mayorista;MAYORISTA;Eje Cafetero;Tropitiendas;;4,499499798;-75,72489929
+1596965;Caldas;ANTIOQUIA;Vaquita Express;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Tropicana;;6,091783;-75,636553
+1596966;Medellin;ANTIOQUIA;Vaquita Express;Dtt;Smi;SMI P;Antioquia-Choco;Tropicana;;6,26099;-75,59769
+1596967;Medellin;ANTIOQUIA;Vaquita Express;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Tropicana;;6,261843;-75,589198
+1596968;Medellin;ANTIOQUIA;Vaquita Express;Dtt;Smi;SMI G BASIC;Antioquia-Choco;Tropicana;;6,169978;-75,585828
+1596969;Medellin;ANTIOQUIA;Vaquita Express;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Tropicana;;6,224843;-75,59599
+1596970;Medellin;ANTIOQUIA;Vaquita Express;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Tropicana;;6,24963;-75,606873
+1596971;Bogota;BOGOTA D.C;Zapatoca;Mt;Smi;SMI G;Cundi-Boyaca;Zapatoca;Viernes;4,598068;-74,141541
+1596972;Bogota;BOGOTA D.C;Zapatoca;Mt;Smi;SMI G;Cundi-Boyaca;Zapatoca;Viernes;4,630181;-74,134388
+1596973;Bogota;BOGOTA D.C;Zapatoca;Mt;Smi;SMI G PREMIUM;Cundi-Boyaca;Zapatoca;Viernes;4,689768;-74,06729
+1596974;Bogota;BOGOTA D.C;Zapatoca;Mt;Smi;SMI G PREMIUM;Cundi-Boyaca;Zapatoca;Viernes;4,643772;-74,129477
+1596975;Bogota;BOGOTA D.C;Zapatoca;Mt;Smi;SMI G BASIC;Cundi-Boyaca;Zapatoca;Viernes;4,609832;-74,112698
+1596976;Bogota;BOGOTA D.C;Zapatoca;Mt;Smi;SMI G PREMIUM;Cundi-Boyaca;Zapatoca;Viernes;4,316110134;-74,18109894
+1596977;Bogota;BOGOTA D.C;Zapatoca;Mt;Smi;SMI G PREMIUM;Cundi-Boyaca;Zapatoca;Viernes;4,639557;-74,140278
+1596978;Neiva;HUILA;Tropihuila;Dtt;Mayorista;MAYORISTA;Centro;Tropihuila;;2,893887;-75,281087
+1596979;Neiva;HUILA;Tropihuila;Dtt;Mayorista;MAYORISTA;Centro;Tropihuila;;2,924868;-75,290875
+1596980;Neiva;HUILA;Tropihuila;Dtt;Mayorista;MAYORISTA;Centro;Tropihuila;;2,893793;-75,280973
+1596981;Facatativa;CUNDINAMARCA;Zapatoca;Mt;Smi;SMI G BASIC;Cundi-Boyaca;Zapatoca;Viernes;4,834050179;-74,33799744
+1596982;Manizales;CALDAS;Tropitiendas;Dtt;Mayorista;MAYORISTA;Eje Cafetero;Tropitiendas;;5,083429813;-75,50730133
+1596983;Cartago;VALLE DEL CAUCA;Tropitiendas;Dtt;Mayorista;MAYORISTA;Eje Cafetero;Tropitiendas;;4,706850052;-75,91790009
+1596984;Cartago;VALLE DEL CAUCA;Tropitiendas;Dtt;Mayorista;MAYORISTA;Eje Cafetero;Tropitiendas;;4,706850052;-75,91790009
+1596985;Cartago;VALLE DEL CAUCA;Tropitiendas;Dtt;Mayorista;MAYORISTA;Eje Cafetero;Tropitiendas;;4,706850052;-75,91790009
+1596986;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,686275;-74,050977
+1596987;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,691125;-74,036885
+1596988;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,704182;-74,032675
+1596989;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,719607;-74,035157
+1596990;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,729523;-74,049155
+1596991;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,643178;-74,075828
+1596992;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,661193;-74,056197
+1596993;Barranquilla;ATLANTICO;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Atlantico;Carulla;Jueves;11,003848;-74,815373
+1596994;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Atlantico;Carulla;Jueves;10,399873;-75,55596
+1596995;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,71991;-74,039762
+1596996;Chia;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,866937;-74,036778
+1596997;Cartago;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Pacifico;Carulla;Lunes - Viernes;4,706850052;-75,91790009
+1596998;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,682402;-74,048975
+1596999;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Antioquia-Choco;Carulla;Miercoles - Sabado;6,163782;-75,57328
+1597000;Barranquilla;ATLANTICO;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Atlantico;Carulla;Jueves;10,954377;-74,8094
+1597001;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,669332;-74,056255
+1597002;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Pacifico;Carulla;Lunes - Viernes;3,399039984;-76,57649994
+1597003;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,666653;-74,050093
+1597004;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Antioquia-Choco;Carulla;Miercoles - Sabado;6,19809;-75,557453
+1597005;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,642792;-74,075823
+1597006;Medellin;ANTIOQUIA;Inversiones Euro;Mt;Smi;SMI G PREMIUM;Antioquia-Choco;Inversiones Euro;Martes;6,151922;-75,623163
+1597007;Envigado;ANTIOQUIA;Inversiones Euro;Mt;Smi;SMI G PREMIUM;Antioquia-Choco;Inversiones Euro;Martes;6,183208;-75,578847
+1597008;Medellin;ANTIOQUIA;Inversiones Euro;Mt;Smi;SMI M PREMIUM;Antioquia-Choco;Inversiones Euro;Martes;6,244157;-75,593795
+1597009;Itagui;ANTIOQUIA;Inversiones Euro;Mt;Smi;SMI M BASIC;Antioquia-Choco;Inversiones Euro;Martes;6,187885;-75,589187
+1597010;Tunja;BOYACA;La Canasta;Dtt;Smi;SMI M BASIC;Cundi-Boyaca;Pastor J Duitama;;5,51846981;-73,37799835
+1597011;Tunja;BOYACA;La Canasta;Dtt;Smi;SMI M PREMIUM;Cundi-Boyaca;Pastor J Duitama;;5,51846981;-73,37799835
+1597012;Tunja;BOYACA;La Canasta;Dtt;Smi;SMI M BASIC;Cundi-Boyaca;Pastor J Duitama;;5,51846981;-73,37799835
+1597013;Jamundi;VALLE DEL CAUCA;La Gran Colombia;Dtt;Smi;SMI M BASIC;Pacifico;Corbeta;;3,213890076;-76,62760162
+1597014;Santiago De Cali;VALLE DEL CAUCA;La Gran Colombia;Dtt;Smi;SMI M BASIC;Pacifico;Corbeta;;3,399039984;-76,57649994
+1597015;Tunja;BOYACA;La Granja;Dtt;Smi;SMI P;Cundi-Boyaca;Pastor J Duitama;;5,51846981;-73,37799835
+1597016;Tunja;BOYACA;La Granja;Dtt;Smi;SMI P;Cundi-Boyaca;Pastor J Duitama;;5,518763;-73,354093
+1597017;Cucuta;NORTE DE SANTANDER;Los Montes;Dtt;Smi;SMI M BASIC;Santanderes;Pastor J Cucuta;;8,112030029;-72,48860168
+1597018;Cucuta;NORTE DE SANTANDER;Los Montes;Dtt;Smi;SMI M BASIC;Santanderes;Pastor J Cucuta;;7,911316;-72,551607
+1597019;Bogota;BOGOTA D.C;Makro;Mt;Club;CLUB;Cundi-Boyaca;Makro;Lunes;4,316110134;-74,18109894
+1597020;Cajica;CUNDINAMARCA;Makro;Mt;Club;CLUB;Cundi-Boyaca;Makro;Lunes;4,930399895;-74,0298996
+1597021;Santiago De Cali;VALLE DEL CAUCA;Makro;Mt;Club;CLUB;Pacifico;Makro;Martes;3,399039984;-76,57649994
+1597022;Cartagena;BOLIVAR;Makro;Mt;Club;CLUB;Atlantico;Makro;Martes;10,398343;-75,493875
+1597023;Cucuta;NORTE DE SANTANDER;Makro;Mt;Club;CLUB;Santanderes;Makro;Martes;8,112030029;-72,48860168
+1597024;Bogota;BOGOTA D.C;Makro;Mt;Club;CLUB;Cundi-Boyaca;Makro;Martes;4,771892;-74,040437
+1597025;Pereira;RISARALDA;Makro;Mt;Club;CLUB;Eje Cafetero;Makro;Martes;4,781290054;-75,71240234
+1597026;Medellin;ANTIOQUIA;Makro;Mt;Club;CLUB;Antioquia-Choco;Makro;Martes;6,213942;-75,580185
+1597027;Bogota;BOGOTA D.C;Zapatoca;Mt;Smi;SMI G BASIC;Cundi-Boyaca;Zapatoca;Viernes;4,616948;-74,1215
+1597028;Bogota;BOGOTA D.C;Zapatoca;Mt;Smi;SMI G BASIC;Cundi-Boyaca;Zapatoca;Viernes;4,710743;-74,117167
+1597029;Bogota;BOGOTA D.C;Zapatoca;Mt;Smi;SMI G;Cundi-Boyaca;Zapatoca;Viernes;4,713685;-74,21911
+1597030;Bogota;BOGOTA D.C;Zapatoca;Mt;Smi;SMI G BASIC;Cundi-Boyaca;Zapatoca;Viernes;4,625255;-74,120913
+1597031;Bogota;BOGOTA D.C;Zapatoca;Mt;Smi;SMI G PREMIUM;Cundi-Boyaca;Zapatoca;Viernes;4,617297;-74,110547
+1597032;Bogota;BOGOTA D.C;Zapatoca;Mt;Smi;SMI G BASIC;Cundi-Boyaca;Zapatoca;Viernes;4,636883;-74,142657
+1597033;Bogota;BOGOTA D.C;Zapatoca;Mt;Smi;SMI G PREMIUM;Cundi-Boyaca;Zapatoca;Viernes;4,752855;-74,093592
+1597034;Bogota;BOGOTA D.C;Zapatoca;Mt;Smi;SMI G BASIC;Cundi-Boyaca;Zapatoca;Viernes;4,680225;-74,108172
+1597035;Valledupar;CESAR;Olimpica;Mt;Ka;SUPERP PREMIUM;Atlantico;Olimpica Sto;;10,38230038;-73,46309662
+1597036;Rionegro;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Antioquia-Choco;Carulla;Miercoles - Sabado;6,125385;-75,421607
+1597037;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,711555;-74,072898
+1597038;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Antioquia-Choco;Carulla;Miercoles - Sabado;6,197622;-75,574638
+1597039;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,648418;-74,087793
+1597040;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Antioquia-Choco;Carulla;Miercoles - Sabado;6,220135;-75,566765
+1597041;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Pacifico;Carulla;Lunes - Viernes;3,399039984;-76,57649994
+1597042;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,316110134;-74,18109894
+1597043;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,697667;-74,030793
+1597044;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,695483;-74,043565
+1597045;Pereira;RISARALDA;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Eje Cafetero;Carulla;Jueves;4,804053;-75,686383
+1597046;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Antioquia-Choco;Carulla;Miercoles - Sabado;6,215503;-75,5628
+1597047;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Antioquia-Choco;Carulla;Miercoles - Sabado;6,257589817;-75,61100006
+1597048;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,694927;-74,08665
+1597049;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,734808;-74,065732
+1597050;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Antioquia-Choco;Carulla;Miercoles - Sabado;6,200175;-75,575977
+1597051;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,316110134;-74,18109894
+1597052;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Pacifico;Carulla;Lunes - Viernes;3,43345;-76,544428
+1597053;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Antioquia-Choco;Carulla;Miercoles - Sabado;6,257589817;-75,61100006
+1597054;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,705468;-74,050527
+1597055;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Antioquia-Choco;Carulla;Miercoles - Sabado;6,257589817;-75,61100006
+1597056;Floridablanca;SANTANDER;Makro;Mt;Club;CLUB;Santanderes;Makro;Martes;7,079699993;-73,06800079
+1597057;Ibague;TOLIMA;Makro;Mt;Club;CLUB;Centro;Makro;Lunes;4,43131;-75,186075
+1597058;Monteria;CORDOBA;Makro;Mt;Club;CLUB;Atlantico;Makro;Martes;8,763408;-75,870555
+1597059;Bogota;BOGOTA D.C;Makro;Mt;Club;CLUB;Cundi-Boyaca;Makro;Lunes;4,629812;-74,117418
+1597060;Medellin;ANTIOQUIA;Makro;Mt;Club;CLUB;Antioquia-Choco;Makro;Martes;6,252438;-75,58451
+1597061;Santa Marta;MAGDALENA;Makro;Mt;Club;CLUB;Atlantico;Makro;Martes;11,229598;-74,199165
+1597062;Barranquilla;ATLANTICO;Makro;Mt;Club;CLUB;Atlantico;Makro;Martes;10,925907;-74,779917
+1597063;Tunja;BOYACA;Makro;Mt;Club;CLUB;Cundi-Boyaca;Makro;Lunes;5,54379;-73,349867
+1597064;Santiago De Cali;VALLE DEL CAUCA;Makro;Mt;Club;CLUB;Pacifico;Makro;Martes;3,399039984;-76,57649994
+1597065;Valledupar;CESAR;Makro;Mt;Club;CLUB;Atlantico;Makro;Martes;10,489192;-73,272658
+1597066;Bogota;BOGOTA D.C;Makro;Mt;Club;CLUB;Cundi-Boyaca;Makro;Lunes;4,59658;-74,152867
+1597067;Barranquilla;ATLANTICO;Makro;Mt;Club;CLUB;Atlantico;Makro;Martes;11,015737;-74,836435
+1597068;Villavicencio;META;Makro;Mt;Club;CLUB;Llanos;Makro;Lunes;4,091670036;-73,49289703
+1597069;Floridablanca;SANTANDER;Mas Por Menos;Dtt;Smi;SMI G BASIC;Santanderes;Pastor J Bucaramanga;;7,079699993;-73,06800079
+1597070;Barrancabermeja;SANTANDER;Mas Por Menos;Dtt;Smi;SMI G BASIC;Santanderes;Pastor J Bucaramanga;;7,054069996;-73,78209686
+1597071;Barrancabermeja;SANTANDER;Mas Por Menos;Dtt;Smi;SMI M BASIC;Santanderes;Pastor J Bucaramanga;;7,054069996;-73,78209686
+1597072;Bucaramanga;SANTANDER;Mas Por Menos;Dtt;Smi;SMI G BASIC;Santanderes;Pastor J Bucaramanga;;7,155829906;-73,11160278
+1597073;Floridablanca;SANTANDER;Mas Por Menos;Dtt;Smi;SMI M BASIC;Santanderes;Pastor J Bucaramanga;;7,079699993;-73,06800079
+1597074;Bucaramanga;SANTANDER;Mas Por Menos;Dtt;Smi;SMI G BASIC;Santanderes;Pastor J Bucaramanga;;7,155829906;-73,11160278
+1597075;Floridablanca;SANTANDER;Mas Por Menos;Dtt;Smi;SMI M BASIC;Santanderes;Pastor J Bucaramanga;;7,063613;-73,167352
+1597076;Bucaramanga;SANTANDER;Mas Por Menos;Dtt;Smi;SMI M BASIC;Santanderes;Pastor J Bucaramanga;;7,155829906;-73,11160278
+1597077;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,316110134;-74,18109894
+1597078;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Pacifico;Carulla;Lunes - Viernes;3,399039984;-76,57649994
+1597079;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Atlantico;Carulla;Jueves;10,413317;-75,539783
+1597080;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Antioquia-Choco;Carulla;Miercoles - Sabado;6,257589817;-75,61100006
+1597081;Monteria;CORDOBA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Atlantico;Exito;Jueves;8,763992;-75,873138
+1597082;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,701787;-74,113948
+1597083;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,618445;-74,134593
+1597084;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Antioquia-Choco;Exito;Miercoles - Sabado;6,337992;-75,543882
+1597085;Cucuta;NORTE DE SANTANDER;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Santanderes;Exito;Jueves;8,112030029;-72,48860168
+1597086;Barrancabermeja;SANTANDER;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Santanderes;Exito;Jueves;7,054069996;-73,78209686
+1597087;Barranquilla;ATLANTICO;Grupo Comercial exito;Mt;Ka;HYPER PREMIUM;Atlantico;Exito;Jueves;11,009203;-74,821243
+1597088;Bello;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Antioquia-Choco;Exito;Miercoles - Sabado;6,188183;-75,589572
+1597089;Bello;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Antioquia-Choco;Exito;Miercoles - Sabado;6,335366;-75,557539
+1597090;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,759522;-74,063843
+1597091;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,72131;-74,124007
+1597092;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,604732;-74,182748
+1597093;Bucaramanga;SANTANDER;Grupo Comercial exito;Mt;Ka;HYPER PREMIUM;Santanderes;Exito;Jueves;7,155829906;-73,11160278
+1597094;Bucaramanga;SANTANDER;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Santanderes;Exito;Jueves;7,155829906;-73,11160278
+1597095;Bucaramanga;SANTANDER;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Santanderes;Exito;Jueves;7,155829906;-73,11160278
+1597096;Barranquilla;ATLANTICO;Grupo Comercial exito;Mt;Ka;HYPER PREMIUM;Atlantico;Exito;Jueves;11,013458;-74,828117
+1597097;Piedecuesta;SANTANDER;Mas Por Menos;Dtt;Smi;SMI M BASIC;Santanderes;Pastor J Bucaramanga;;6,962460041;-73,00520325
+1597098;Floridablanca;SANTANDER;Mas Por Menos;Dtt;Smi;SMI G BASIC;Santanderes;Pastor J Bucaramanga;;7,079699993;-73,06800079
+1597099;Bucaramanga;SANTANDER;Megaredil;Dtt;Smi;SMI G BASIC;Santanderes;Tropisander;;7,155829906;-73,11160278
+1597100;Bucaramanga;SANTANDER;Megaredil;Dtt;Smi;SMI M BASIC;Santanderes;Tropisander;;7,155829906;-73,11160278
+1597101;Piedecuesta;SANTANDER;Megaredil;Dtt;Smi;SMI M BASIC;Santanderes;Tropisander;;6,962460041;-73,00520325
+1597102;Barranquilla;ATLANTICO;Megatiendas;Mt;Smi;SMI M BASIC;Atlantico;Megatiendas;;11,004555;-74,824195
+1597103;Barranquilla;ATLANTICO;Megatiendas;Mt;Smi;SMI M PREMIUM;Atlantico;Megatiendas;;11,022443;-74,862877
+1597104;Cartagena;BOLIVAR;Megatiendas;Mt;Smi;SMI M PREMIUM;Atlantico;Megatiendas;;10,399743;-75,556328
+1597105;Barranquilla;ATLANTICO;Megatiendas;Mt;Smi;SMI M BASIC;Atlantico;Megatiendas;;10,952048;-74,786853
+1597106;Cartagena;BOLIVAR;Megatiendas;Mt;Smi;SMI M BASIC;Atlantico;Megatiendas;;10,399;-75,493842
+1597107;Barranquilla;ATLANTICO;Megatiendas;Mt;Smi;SMI M PREMIUM;Atlantico;Megatiendas;;10,989988;-74,811238
+1597108;Santiago De Cali;VALLE DEL CAUCA;Merca Z;Dtt;Smi;SMI M BASIC;Pacifico;Distrimarcas;;3,399039984;-76,57649994
+1597109;Ibague;TOLIMA;Mercacentro;Dtt;Smi;SMI M BASIC;Centro;Tropicana;;4,451920033;-75,25260162
+1597110;Ibague;TOLIMA;Mercacentro;Dtt;Smi;SMI M BASIC;Centro;Tropicana;;4,436702;-75,201033
+1597111;Ibague;TOLIMA;Mercacentro;Dtt;Smi;SMI M BASIC;Centro;Tropicana;;4,440863;-75,206065
+1597112;Ibague;TOLIMA;Mercacentro;Dtt;Smi;SMI M BASIC;Centro;Tropicana;;4,43928;-75,237077
+1597113;Ibague;TOLIMA;Mercacentro;Dtt;Smi;SMI M BASIC;Centro;Tropicana;;4,451920033;-75,25260162
+1597114;Ibague;TOLIMA;Mercacentro;Dtt;Smi;SMI M BASIC;Centro;Tropicana;;4,431927;-75,243702
+1597115;Espinal;TOLIMA;Mercacentro;Dtt;Smi;SMI G PREMIUM;Centro;Tropicana;;4,166480064;-74,89350128
+1597116;Manizales;CALDAS;Mercaldas;Dtt;Smi;SMI M BASIC;Eje Cafetero;Serviventas;;5,06487;-75,500735
+1597117;Manizales;CALDAS;Mercaldas;Dtt;Smi;SMI M PREMIUM;Eje Cafetero;Serviventas;;5,067522;-75,520667
+1597118;Manizales;CALDAS;Mercaldas;Dtt;Smi;SMI M BASIC;Eje Cafetero;Serviventas;;5,031458;-75,463752
+1597119;Santa Marta;MAGDALENA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Atlantico;Exito;Jueves;11,225975;-74,174473
+1597120;Buenaventura;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Pacifico;Exito;Lunes - Viernes;3,867677;-76,996263
+1597121;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,618579;-74,085876
+1597122;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,684475;-74,079977
+1597123;Bucaramanga;SANTANDER;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Santanderes;Exito;Jueves;4,663223;-74,061065
+1597124;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Pacifico;Exito;Lunes - Viernes;3,399039984;-76,57649994
+1597125;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Atlantico;Exito;Jueves;10,390827;-75,479503
+1597126;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Atlantico;Exito;Jueves;10,395577;-75,486395
+1597127;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,639613;-74,06522
+1597128;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Pacifico;Exito;Lunes - Viernes;3,476772;-76,5273
+1597129;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,577805;-74,13048
+1597130;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER PREMIUM;Cundi-Boyaca;Exito;Miercoles - Lunes;4,733312;-74,066335
+1597131;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER PREMIUM;Cundi-Boyaca;Exito;Miercoles - Lunes;4,712554;-74,034259
+1597132;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Antioquia-Choco;Exito;Miercoles - Sabado;6,255343;-75,583433
+1597133;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HYPER PREMIUM;Antioquia-Choco;Exito;Miercoles - Sabado;6,185833;-75,570978
+1597134;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Atlantico;Exito;Jueves;10,398532;-75,494089
+1597135;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Cundi-Boyaca;Exito;Miercoles - Lunes;4,316110134;-74,18109894
+1597136;Envigado;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HYPER PREMIUM;Antioquia-Choco;Exito;Miercoles - Sabado;6,15171;-75,61154
+1597137;Envigado;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Antioquia-Choco;Exito;Miercoles - Sabado;6,171967;-75,5873
+1597138;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,316110134;-74,18109894
+1597139;Manizales;CALDAS;Mercaldas;Dtt;Smi;SMI M PREMIUM;Eje Cafetero;Serviventas;;5,052573;-75,489462
+1597140;Manizales;CALDAS;Mercaldas;Dtt;Smi;SMI M PREMIUM;Eje Cafetero;Serviventas;;5,060525;-75,489963
+1597141;Manizales;CALDAS;Mercaldas;Dtt;Smi;SMI M PREMIUM;Eje Cafetero;Serviventas;;5,035448;-75,468517
+1597142;Manizales;CALDAS;Mercaldas;Dtt;Smi;SMI M PREMIUM;Eje Cafetero;Serviventas;;5,062127;-75,498975
+1597143;Santiago De Cali;VALLE DEL CAUCA;Mercamio;Dtt;Smi;SMI G BASIC;Pacifico;Corbeta;;3,399039984;-76,57649994
+1597144;Santiago De Cali;VALLE DEL CAUCA;Mercamio;Dtt;Smi;SMI G PREMIUM;Pacifico;Corbeta;;3,399039984;-76,57649994
+1597145;Calarca;QUINDIO;Mercamos;Dtt;Smi;SMI M BASIC;Eje Cafetero;Tropitiendas;;4,467879772;-75,65670013
+1597146;Montenegro;QUINDIO;Mercamos;Dtt;Smi;SMI M BASIC;Eje Cafetero;Tropitiendas;;4,521890163;-75,81809998
+1597147;Quimbaya;QUINDIO;Mercamos;Dtt;Smi;SMI M BASIC;Eje Cafetero;Tropitiendas;;4,610270023;-75,792099
+1597148;Armenia;QUINDIO;Mercamos;Dtt;Smi;SMI M BASIC;Eje Cafetero;Tropitiendas;;4,499499798;-75,72489929
+1597149;Armenia;QUINDIO;Mercamos;Dtt;Smi;SMI M BASIC;Eje Cafetero;Tropitiendas;;4,499499798;-75,72489929
+1597150;Bucaramanga;SANTANDER;Mercantil;Dtt;Smi;SMI M BASIC;Santanderes;Mercantil;;7,155829906;-73,11160278
+1597151;Bucaramanga;SANTANDER;Mercantil;Dtt;Smi;SMI M BASIC;Santanderes;Mercantil;;7,155829906;-73,11160278
+1597152;Bucaramanga;SANTANDER;Mercantil;Dtt;Smi;SMI M BASIC;Santanderes;Mercantil;;7,155829906;-73,11160278
+1597153;Santiago De Cali;VALLE DEL CAUCA;Mercar;Dtt;Smi;SMI M BASIC;Pacifico;Corbeta;;3,399039984;-76,57649994
+1597154;Santiago De Cali;VALLE DEL CAUCA;Mercar;Dtt;Smi;SMI M BASIC;Pacifico;Corbeta;;3,399039984;-76,57649994
+1597155;Bucaramanga;SANTANDER;Mercasur;Dtt;Smi;SMI G BASIC;Santanderes;Pastor J Bucaramanga;;7,155829906;-73,11160278
+1597156;Bucaramanga;SANTANDER;Mercasur;Dtt;Smi;SMI M BASIC;Santanderes;Pastor J Bucaramanga;;7,155829906;-73,11160278
+1597157;Santiago De Cali;VALLE DEL CAUCA;Mercatodo;Dtt;Smi;SMI M BASIC;Pacifico;Corbeta;;3,399039984;-76,57649994
+1597158;Santiago De Cali;VALLE DEL CAUCA;Mercatodo;Dtt;Smi;SMI M BASIC;Pacifico;Corbeta;;3,399039984;-76,57649994
+1597159;Duitama;BOYACA;Mercopolis;Dtt;Smi;SMI P;Cundi-Boyaca;Pastor J Duitama;;5,825402;-73,033913
+1597160;Caldas;ANTIOQUIA;Merkacaldas;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,054450035;-75,62640381
+1597161;Facatativa;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,834050179;-74,33799744
+1597162;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,74979;-74,095568
+1597163;Chia;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;HYPER PREMIUM;Cundi-Boyaca;Exito;Miercoles - Lunes;4,892457;-74,032867
+1597164;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,68037;-74,15224
+1597165;Girardot;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Centro;Exito;Miercoles - Lunes;4,338150024;-74,81140137
+1597166;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER PREMIUM;Cundi-Boyaca;Exito;Miercoles - Lunes;4,648098;-74,1033
+1597167;Ibague;TOLIMA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Centro;Exito;Jueves - Lunes;4,438362;-75,187002
+1597168;Ipiales;NARINO;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Pacifico;Exito;Lunes - Viernes;0,558614016;-77,37039948
+1597169;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Antioquia-Choco;Exito;Miercoles - Sabado;6,168175;-75,615657
+1597170;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Antioquia-Choco;Exito;Miercoles - Sabado;6,241923;-75,548595
+1597171;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,651673;-74,125553
+1597172;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;HYPER PREMIUM;Pacifico;Exito;Lunes - Viernes;3,485875;-76,516523
+1597173;Villavicencio;META;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Llanos;Exito;Miercoles - Lunes;4,091670036;-73,49289703
+1597174;Valledupar;CESAR;Grupo Comercial exito;Mt;Ka;HYPER PREMIUM;Atlantico;Exito;Jueves;10,469367;-73,2587
+1597175;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HYPER PREMIUM;Antioquia-Choco;Exito;Miercoles - Sabado;6,246415;-75,60135
+1597176;Manizales;CALDAS;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Eje Cafetero;Exito;Jueves;5,070085;-75,510003
+1597177;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Atlantico;Exito;Jueves;10,425734;-75,546875
+1597178;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Antioquia-Choco;Exito;Miercoles - Sabado;6,151262;-75,614283
+1597179;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,665101;-74,120289
+1597180;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Antioquia-Choco;Exito;Miercoles - Sabado;6,231933;-75,603675
+1597181;Manizales;CALDAS;Merkacaldas;Dtt;Smi;SMI M PREMIUM;Eje Cafetero;Tropitiendas;;5,083429813;-75,50730133
+1597182;Copacabana;ANTIOQUIA;Merkahorro;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,351880074;-75,50080109
+1597183;Medellin;ANTIOQUIA;Merkahorro;Dtt;Smi;SMI P;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1597184;Medellin;ANTIOQUIA;Merkahorro;Dtt;Smi;SMI P;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1597185;Medellin;ANTIOQUIA;Merkepaisa;Dtt;Smi;SMI P;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1597186;Sabaneta;ANTIOQUIA;Merkepaisa;Dtt;Smi;SMI G;Antioquia-Choco;Surtiventas;;6,138309956;-75,6088028
+1597187;Sabaneta;ANTIOQUIA;Merkepaisa;Dtt;Smi;SMI G;Antioquia-Choco;Surtiventas;;6,138309956;-75,6088028
+1597188;Medellin;ANTIOQUIA;Merkepaisa;Dtt;Smi;SMI P;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1597189;Medellin;ANTIOQUIA;Merkepaisa;Dtt;Smi;SMI P;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1597190;Medellin;ANTIOQUIA;Merkepaisa;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Surtiventas;;6,257589817;-75,61100006
+1597191;Valledupar;CESAR;Mi Futuro;Dtt;Smi;SMI M BASIC;Atlantico;Pastor J Valledupar;;10,472897;-73,242718
+1597192;Valledupar;CESAR;Mi Futuro;Dtt;Smi;SMI M BASIC;Atlantico;Pastor J Valledupar;;10,464403;-73,248395
+1597193;Valledupar;CESAR;Mi Futuro;Dtt;Smi;SMI M PREMIUM;Atlantico;Pastor J Valledupar;;10,484192;-73,253787
+1597194;San Gil;SANTANDER;Multihogar;Dtt;Smi;SMI M BASIC;Santanderes;Multihogar;;6,550779819;-73,11889648
+1597195;San Gil;SANTANDER;Multihogar;Dtt;Smi;SMI M BASIC;Santanderes;Multihogar;;6,550779819;-73,11889648
+1597196;Manizales;CALDAS;Olimpica;Mt;Ka;HYPER BASIC;Eje Cafetero;Olimpica Sao;;5,06661;-75,491758
+1597197;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP BASIC;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1597198;Neiva;HUILA;Olimpica;Mt;Ka;SUPERP PREMIUM;Centro;Olimpica Sto;;2,958958;-75,288485
+1597199;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;HYPER BASIC;Atlantico;Olimpica Sao;;10,938677;-74,782485
+1597200;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;HYPER BASIC;Atlantico;Olimpica Sao;;10,954218;-74,807565
+1597201;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;HYPER BASIC;Atlantico;Olimpica Sao;;10,965577;-74,78653
+1597202;Facatativa;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,713413;-74,222112
+1597203;Barranquilla;ATLANTICO;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Atlantico;Exito;Jueves;10,991528;-74,807232
+1597204;Neiva;HUILA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Centro;Exito;Jueves - Lunes;2,926982;-75,291467
+1597205;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,705555;-74,071367
+1597206;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,623302;-74,15422
+1597207;Bucaramanga;SANTANDER;Grupo Comercial exito;Mt;Ka;HYPER PREMIUM;Santanderes;Exito;Jueves;7,155829906;-73,11160278
+1597208;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Pacifico;Exito;Lunes - Viernes;3,399039984;-76,57649994
+1597209;Palmira;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERG;Pacifico;Exito;Lunes - Viernes;3,558389902;-76,22779846
+1597210;Popayan;CAUCA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Pacifico;Exito;Lunes - Viernes;2,471699953;-76,59190369
+1597211;Barranquilla;ATLANTICO;Grupo Comercial exito;Mt;Ka;HYPER PREMIUM;Atlantico;Exito;Jueves;10,945473;-74,784693
+1597212;Pereira;RISARALDA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Eje Cafetero;Exito;Jueves;4,807265;-75,68337
+1597213;Pasto;NARINO;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Pacifico;Exito;Lunes - Viernes;1,083610058;-77,20610046
+1597214;Pereira;RISARALDA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Eje Cafetero;Exito;Jueves;4,866507;-75,62075
+1597215;Piedecuesta;SANTANDER;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Santanderes;Exito;Jueves;6,962460041;-73,00520325
+1597216;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,653752;-74,109713
+1597217;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HYPER PREMIUM;Antioquia-Choco;Exito;Miercoles - Sabado;6,21217;-75,575238
+1597218;Popayan;CAUCA;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Pacifico;Exito;Lunes - Viernes;2,439799;-76,605437
+1597219;Rionegro;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Antioquia-Choco;Exito;Miercoles - Sabado;6,148983;-75,377938
+1597220;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Antioquia-Choco;Exito;Miercoles - Sabado;6,33985;-75,544088
+1597221;Monteria;CORDOBA;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Atlantico;Exito;Jueves;8,777892;-75,86209
+1597222;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;HYPER PREMIUM;Atlantico;Olimpica Sao;;11,008022;-74,82208
+1597223;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;HYPER PREMIUM;Atlantico;Olimpica Sao;;10,98149967;-74,82769775
+1597224;Cartagena;BOLIVAR;Olimpica;Mt;Ka;HYPER PREMIUM;Atlantico;Olimpica Sao;;10,389617;-75,476883
+1597225;Cartagena;BOLIVAR;Olimpica;Mt;Ka;HYPER PREMIUM;Atlantico;Olimpica Sao;;10,420678;-75,539008
+1597226;Valledupar;CESAR;Olimpica;Mt;Ka;HYPER BASIC;Atlantico;Olimpica Sao;;10,460215;-73,264795
+1597227;Valledupar;CESAR;Olimpica;Mt;Ka;HYPER PREMIUM;Atlantico;Olimpica Sao;;10,469297;-73,257312
+1597228;Monteria;CORDOBA;Olimpica;Mt;Ka;HYPER BASIC;Atlantico;Olimpica Sao;;8,749484;-75,879584
+1597229;Sincelejo;SUCRE;Olimpica;Mt;Ka;HYPER PREMIUM;Atlantico;Olimpica Sao;;9,301292;-75,3821
+1597230;Sincelejo;SUCRE;Olimpica;Mt;Ka;HYPER PREMIUM;Atlantico;Olimpica Sao;;9,302607;-75,396007
+1597231;Armenia;QUINDIO;Olimpica;Mt;Ka;HYPER PREMIUM;Eje Cafetero;Olimpica Sao;;4,560187;-75,655438
+1597232;Neiva;HUILA;Olimpica;Mt;Ka;HYPER PREMIUM;Centro;Olimpica Sao;;2,936595;-75,29115
+1597233;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Olimpica Sao;;4,632582;-74,115245
+1597234;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Olimpica Sao;;4,737412;-74,085272
+1597235;Girardot;CUNDINAMARCA;Olimpica;Mt;Ka;HYPER PREMIUM;Centro;Olimpica Sao;;4,338150024;-74,81140137
+1597236;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Olimpica Sao;;4,65046;-74,066815
+1597237;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Olimpica Sao;;4,711435;-74,111918
+1597238;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERG PREMIUM;Atlantico;Olimpica Sao;;11,012775;-74,827905
+1597239;Buenaventura;VALLE DEL CAUCA;Olimpica;Mt;Ka;HYPER BASIC;Pacifico;Olimpica Sao;;3,611490011;-77,08589935
+1597240;Palmira;VALLE DEL CAUCA;Olimpica;Mt;Ka;HYPER BASIC;Pacifico;Olimpica Sao;;3,543818;-76,301152
+1597241;Palmira;VALLE DEL CAUCA;Olimpica;Mt;Ka;HYPER BASIC;Pacifico;Olimpica Sao;;3,526492;-76,278645
+1597242;Soacha;CUNDINAMARCA;Olimpica;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Olimpica Sao;;4,58917;-74,194353
+1597243;Sabaneta;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Antioquia-Choco;Exito;Miercoles - Sabado;6,151807;-75,61162
+1597244;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Antioquia-Choco;Exito;Miercoles - Sabado;6,246952;-75,567028
+1597245;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Atlantico;Exito;Jueves;10,426648;-75,545015
+1597246;Barranquilla;ATLANTICO;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Atlantico;Exito;Jueves;10,985235;-74,811297
+1597247;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,619725;-74,067317
+1597248;Cucuta;NORTE DE SANTANDER;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Santanderes;Exito;Jueves;8,112030029;-72,48860168
+1597249;Neiva;HUILA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Centro;Exito;Jueves - Lunes;2,971029;-75,290887
+1597250;Manizales;CALDAS;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Eje Cafetero;Exito;Jueves;5,05292;-75,489462
+1597251;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Antioquia-Choco;Exito;Miercoles - Sabado;6,257589817;-75,61100006
+1597252;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Pacifico;Exito;Lunes - Viernes;3,399039984;-76,57649994
+1597253;Sincelejo;SUCRE;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Atlantico;Exito;Jueves;9,303915;-75,387167
+1597254;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,74878;-74,096783
+1597255;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,316110134;-74,18109894
+1597256;Tunja;BOYACA;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;5,53167;-73,363447
+1597257;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Pacifico;Exito;Lunes - Viernes;3,399039984;-76,57649994
+1597258;Armenia;QUINDIO;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Eje Cafetero;Exito;Jueves;4,540503;-75,66504
+1597259;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,704213;-74,041002
+1597260;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Antioquia-Choco;Exito;Miercoles - Sabado;6,299885;-75,549187
+1597261;Villavicencio;META;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Llanos;Exito;Miercoles - Lunes;4,091670036;-73,49289703
+1597262;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,531168;-74,118817
+1597263;Cucuta;NORTE DE SANTANDER;Olimpica;Mt;Ka;HYPER BASIC;Santanderes;Olimpica Sao;;8,112030029;-72,48860168
+1597264;Armenia;QUINDIO;Olimpica;Mt;Ka;HYPER BASIC;Eje Cafetero;Olimpica Sao;;4,532345;-75,67559
+1597265;Monteria;CORDOBA;Olimpica;Mt;Ka;HYPER PREMIUM;Atlantico;Olimpica Sao;;8,778792;-75,860137
+1597266;Ibague;TOLIMA;Olimpica;Mt;Ka;HYPER BASIC;Centro;Olimpica Sao;;4,44504;-75,20447
+1597267;Santa Marta;MAGDALENA;Olimpica;Mt;Ka;HYPER PREMIUM;Atlantico;Olimpica Sao;;11,237932;-74,207462
+1597268;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;HYPER BASIC;Atlantico;Olimpica Sao;;11,006187;-74,813532
+1597269;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP BASIC;Atlantico;Olimpica Sto;;10,960067;-74,794273
+1597270;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERG BASIC;Atlantico;Olimpica Sto;;10,952492;-74,791738
+1597271;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP PREMIUM;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1597272;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP PREMIUM;Atlantico;Olimpica Sto;;11,002148;-74,796963
+1597273;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP PREMIUM;Atlantico;Olimpica Sto;;10,98812;-74,78856
+1597274;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERG BASIC;Atlantico;Olimpica Sto;;10,995115;-74,805317
+1597275;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERG BASIC;Atlantico;Olimpica Sto;;10,99172;-74,808335
+1597276;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERG PREMIUM;Atlantico;Olimpica Sto;;10,999693;-74,809023
+1597277;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Olimpica Sao;;4,597288;-74,153355
+1597278;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP PREMIUM;Atlantico;Olimpica Sto;;11,001578;-74,816105
+1597279;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERG PREMIUM;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1597280;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERG PREMIUM;Atlantico;Olimpica Sto;;11,015487;-74,825463
+1597281;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SUPERP BASIC;Atlantico;Olimpica Sto;;10,428018;-75,532833
+1597282;Santa Marta;MAGDALENA;Olimpica;Mt;Ka;SUPERG PREMIUM;Atlantico;Olimpica Sto;;11,198225;-74,22608
+1597283;Santa Marta;MAGDALENA;Olimpica;Mt;Ka;SUPERP BASIC;Atlantico;Olimpica Sto;;11,2201;-74,18103
+1597284;Valledupar;CESAR;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Atlantico;Exito;Jueves;10,38230038;-73,46309662
+1597285;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,57198;-74,091493
+1597286;Tunja;BOYACA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;5,55663;-73,346322
+1597287;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,592135;-74,125328
+1597288;Villavicencio;META;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Llanos;Exito;Miercoles - Lunes;4,091670036;-73,49289703
+1597289;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Antioquia-Choco;Exito;Miercoles - Sabado;6,22494;-75,596038
+1597290;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,608375;-74,070752
+1597291;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,316110134;-74,18109894
+1597292;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Pacifico;Superinter;Lunes - Viernes;3,399039984;-76,57649994
+1597293;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Pacifico;Superinter;Lunes - Viernes;3,466287;-76,530335
+1597294;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Pacifico;Superinter;Lunes - Viernes;3,399039984;-76,57649994
+1597295;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Pacifico;Superinter;Lunes - Viernes;3,399039984;-76,57649994
+1597296;Jamundi;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Pacifico;Superinter;Lunes - Viernes;3,266853;-76,537768
+1597297;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Pacifico;Superinter;Lunes - Viernes;3,399039984;-76,57649994
+1597298;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Pacifico;Superinter;Lunes - Viernes;3,399039984;-76,57649994
+1597299;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Pacifico;Superinter;Lunes - Viernes;3,399039984;-76,57649994
+1597300;Villavicencio;META;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Llanos;Surtimayorista;Miercoles - Lunes;4,091670036;-73,49289703
+1597301;Monteria;CORDOBA;Grupo Litoral Monteria;Dtt;Mayorista;MAYORISTA;Atlantico;Grupo Litoral Monteria;;8,742375;-75,887242
+1597302;Monteria;CORDOBA;Grupo Litoral Monteria;Dtt;Mayorista;MAYORISTA;Atlantico;Grupo Litoral Monteria;;8,742493;-75,888027
+1597303;Sincelejo;SUCRE;Grupo Litoral Monteria;Dtt;Smi;SMI P;Atlantico;Grupo Litoral Monteria;;9,316670418;-75,43170166
+1597304;Medellin;ANTIOQUIA;Olimpica;Mt;Ka;SUPERP PREMIUM;Antioquia-Choco;Olimpica Sto;;6,183173;-75,571072
+1597305;Pereira;RISARALDA;Olimpica;Mt;Ka;SUPERG PREMIUM;Eje Cafetero;Olimpica Sto;;4,812753;-75,708995
+1597306;Manizales;CALDAS;Olimpica;Mt;Ka;SUPERP;Eje Cafetero;Olimpica Sto;;5,083429813;-75,50730133
+1597307;Neiva;HUILA;Olimpica;Mt;Ka;SUPERP PREMIUM;Centro;Olimpica Sto;;2,93134;-75,25577
+1597308;Cajica;CUNDINAMARCA;Olimpica;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Olimpica Sao;;4,915528;-74,018678
+1597309;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Olimpica Sao;;4,316110134;-74,18109894
+1597310;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Olimpica Sao;;4,687478;-74,034732
+1597311;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Olimpica Sao;;4,663432;-74,048353
+1597312;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Olimpica Sao;;4,720788;-74,046223
+1597313;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Olimpica Sao;;4,679965;-74,044145
+1597314;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP BASIC;Cundi-Boyaca;Olimpica Sao;;4,316110134;-74,18109894
+1597315;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Olimpica Sao;;4,316110134;-74,18109894
+1597316;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP BASIC;Cundi-Boyaca;Olimpica Sao;;4,584468;-74,205995
+1597317;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Olimpica Sao;;4,72728;-74,065515
+1597318;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Olimpica Sao;;4,851118;-74,02951
+1597319;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Olimpica Sao;;4,316110134;-74,18109894
+1597320;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Olimpica Sao;;4,736802;-74,049773
+1597321;Villavicencio;META;Olimpica;Mt;Ka;SUPERG PREMIUM;Llanos;Olimpica Sto;;4,091670036;-73,49289703
+1597322;Villavicencio;META;Olimpica;Mt;Ka;SUPERP BASIC;Llanos;Olimpica Sto;;4,091670036;-73,49289703
+1597323;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Olimpica Sao;;4,316110134;-74,18109894
+1597324;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP PREMIUM;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1597325;Lorica;CORDOBA;Grupo Litoral Monteria;Dtt;Smi;SMI M BASIC;Atlantico;Grupo Litoral Monteria;;9,165040016;-75,90979767
+1597326;Planeta Rica;CORDOBA;Grupo Litoral Monteria;Dtt;Smi;SMI G BASIC;Atlantico;Grupo Litoral Monteria;;8,290300369;-75,61239624
+1597327;Corozal;SUCRE;Grupo Litoral Monteria;Dtt;Smi;SMI P;Atlantico;Grupo Litoral Monteria;;9,204030037;-75,25050354
+1597328;Armenia;QUINDIO;Homecenter;Mt;Club;CLUB;Eje Cafetero;Homecenter;Sabado;4,540663;-75,660157
+1597329;Barranquilla;ATLANTICO;Homecenter;Mt;Club;CLUB;Atlantico;Homecenter;Martes;10,947972;-74,784387
+1597330;Barranquilla;ATLANTICO;Homecenter;Mt;Club;CLUB;Atlantico;Homecenter;Martes;10,988658;-74,78693
+1597331;Barranquilla;ATLANTICO;Homecenter;Mt;Club;CLUB;Atlantico;Homecenter;Martes;11,01506;-74,827313
+1597332;Bello;ANTIOQUIA;Homecenter;Mt;Club;CLUB;Antioquia-Choco;Homecenter;Lunes;6,303665;-75,547533
+1597333;Bogota;BOGOTA D.C;Homecenter;Mt;Club;CLUB;Cundi-Boyaca;Homecenter;Lunes;4,618257;-74,08631
+1597334;Bogota;BOGOTA D.C;Homecenter;Mt;Club;CLUB;Cundi-Boyaca;Homecenter;Lunes;4,730498;-74,03276
+1597335;Bogota;BOGOTA D.C;Homecenter;Mt;Club;CLUB;Cundi-Boyaca;Homecenter;Lunes;4,755947;-74,04647
+1597336;Bogota;BOGOTA D.C;Homecenter;Mt;Club;CLUB;Cundi-Boyaca;Homecenter;Lunes;4,603312;-74,132723
+1597337;Bucaramanga;SANTANDER;Homecenter;Mt;Club;CLUB;Santanderes;Homecenter;Martes;7,155829906;-73,11160278
+1597338;Santiago De Cali;VALLE DEL CAUCA;Homecenter;Mt;Club;CLUB;Pacifico;Homecenter;Sabado;3,399039984;-76,57649994
+1597339;Santiago De Cali;VALLE DEL CAUCA;Homecenter;Mt;Club;CLUB;Pacifico;Homecenter;Sabado;3,399039984;-76,57649994
+1597340;Bogota;BOGOTA D.C;Homecenter;Mt;Club;CLUB;Cundi-Boyaca;Homecenter;Lunes;4,684408;-74,079018
+1597341;Cartagena;BOLIVAR;Homecenter;Mt;Club;CLUB;Atlantico;Homecenter;Martes;10,414092;-75,530093
+1597342;Cartagena;BOLIVAR;Homecenter;Mt;Club;CLUB;Atlantico;Homecenter;Martes;10,394342;-75,485925
+1597343;Chia;CUNDINAMARCA;Homecenter;Mt;Club;CLUB;Cundi-Boyaca;Homecenter;Lunes;4,892583;-74,032587
+1597344;Cucuta;NORTE DE SANTANDER;Homecenter;Mt;Club;CLUB;Santanderes;Homecenter;Martes;8,112030029;-72,48860168
+1597345;Bogota;BOGOTA D.C;Homecenter;Mt;Club;CLUB;Cundi-Boyaca;Homecenter;Lunes;4,662314;-74,131762
+1597346;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERG PREMIUM;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1597347;Guadalajara De Buga;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERG;Pacifico;Olimpica Sto;;3,855249882;-76,10510254
+1597348;Tulua;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERG BASIC;Pacifico;Olimpica Sto;;4,028409958;-76,03250122
+1597349;Buenaventura;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERG BASIC;Pacifico;Olimpica Sto;;3,611490011;-77,08589935
+1597350;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERG BASIC;Pacifico;Olimpica Sto;;3,474258;-76,49303
+1597351;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP PREMIUM;Pacifico;Olimpica Sto;;3,376692;-76,553267
+1597352;Palmira;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERG BASIC;Pacifico;Olimpica Sto;;3,538553;-76,296892
+1597353;Popayan;CAUCA;Olimpica;Mt;Ka;SUPERG PREMIUM;Pacifico;Olimpica Sto;;2,458211;-76,593844
+1597354;Popayan;CAUCA;Olimpica;Mt;Ka;SUPERG BASIC;Pacifico;Olimpica Sto;;2,446953;-76,605777
+1597355;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SUPERP PREMIUM;Atlantico;Olimpica Sto;;10,400357;-75,557192
+1597356;Valledupar;CESAR;Olimpica;Mt;Ka;HIPERMERCADO;Atlantico;Olimpica Sto;;10,38230038;-73,46309662
+1597357;Cartago;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERG PREMIUM;Pacifico;Olimpica Sto;;4,706850052;-75,91790009
+1597358;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERG PREMIUM;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1597359;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERG BASIC;Pacifico;Olimpica Sto;;3,399752;-76,511908
+1597360;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SUPERG PREMIUM;Atlantico;Olimpica Sto;;10,410162;-75,550623
+1597361;Neiva;HUILA;Olimpica;Mt;Ka;SUPERP PREMIUM;Centro;Olimpica Sto;;2,940533;-75,262813
+1597362;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Olimpica Sao;;4,692862;-74,033807
+1597363;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Olimpica Sao;;4,719663;-74,039643
+1597364;Medellin;ANTIOQUIA;Olimpica;Mt;Ka;SUPERG BASIC;Antioquia-Choco;Olimpica Sto;;6,235773;-75,55563
+1597365;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP PREMIUM;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1597366;Medellin;ANTIOQUIA;Olimpica;Mt;Ka;SUPERP PREMIUM;Antioquia-Choco;Olimpica Sto;;6,16914;-75,585432
+1597367;Girardot;CUNDINAMARCA;Homecenter;Mt;Club;CLUB;Centro;Homecenter;Lunes;4,338150024;-74,81140137
+1597368;Ibague;TOLIMA;Homecenter;Mt;Club;CLUB;Centro;Homecenter;Martes;4,438857;-75,186003
+1597369;Medellin;ANTIOQUIA;Homecenter;Mt;Club;CLUB;Antioquia-Choco;Homecenter;Lunes;6,257589817;-75,61100006
+1597370;Medellin;ANTIOQUIA;Homecenter;Mt;Club;CLUB;Antioquia-Choco;Homecenter;Lunes;6,233012;-75,60337
+1597371;Medellin;ANTIOQUIA;Homecenter;Mt;Club;CLUB;Antioquia-Choco;Homecenter;Lunes;6,252972;-75,582818
+1597372;Monteria;CORDOBA;Homecenter;Mt;Club;CLUB;Atlantico;Homecenter;Lunes;8,777993;-75,862688
+1597373;Neiva;HUILA;Homecenter;Mt;Club;CLUB;Centro;Homecenter;Lunes;2,954003;-75,287038
+1597374;Palmira;VALLE DEL CAUCA;Homecenter;Mt;Club;CLUB;Pacifico;Homecenter;Sabado;3,558389902;-76,22779846
+1597375;Pereira;RISARALDA;Homecenter;Mt;Club;CLUB;Eje Cafetero;Homecenter;Sabado;4,806585;-75,717405
+1597376;Rionegro;ANTIOQUIA;Homecenter;Mt;Club;CLUB;Antioquia-Choco;Homecenter;Lunes;6,14825;-75,378447
+1597377;Santa Marta;MAGDALENA;Homecenter;Mt;Club;CLUB;Atlantico;Homecenter;Martes;11,220695;-74,179367
+1597378;Bogota;BOGOTA D.C;Homecenter;Mt;Club;CLUB;Cundi-Boyaca;Homecenter;Lunes;4,589037;-74,205173
+1597379;Bogota;BOGOTA D.C;Homecenter;Mt;Club;CLUB;Cundi-Boyaca;Homecenter;Lunes;4,750617;-74,094828
+1597380;Medellin;ANTIOQUIA;Homecenter;Mt;Club;CLUB;Antioquia-Choco;Homecenter;Lunes;6,1793;-75,593346
+1597381;Manizales;CALDAS;Homecenter;Mt;Club;CLUB;Eje Cafetero;Homecenter;Sabado;5,064123;-75,497615
+1597382;Bogota;BOGOTA D.C;Homecenter;Mt;Club;CLUB;Cundi-Boyaca;Homecenter;Lunes;4,316110134;-74,18109894
+1597383;Tulua;VALLE DEL CAUCA;Homecenter;Mt;Club;CLUB;Pacifico;Homecenter;Sabado;4,028409958;-76,03250122
+1597384;Valledupar;CESAR;Homecenter;Mt;Club;CLUB;Atlantico;Homecenter;Martes;10,493975;-73,267727
+1597385;Villavicencio;META;Homecenter;Mt;Club;CLUB;Llanos;Homecenter;Martes;4,091670036;-73,49289703
+1597386;Bogota;BOGOTA D.C;Homesentry;Mt;Club;CLUB;Cundi-Boyaca;Homesentry;Sabado;4,316110134;-74,18109894
+1597387;Bogota;BOGOTA D.C;Homesentry;Mt;Club;CLUB;Cundi-Boyaca;Homesentry;Sabado;4,316110134;-74,18109894
+1597388;Valledupar;CESAR;Olimpica;Mt;Ka;SUPERP BASIC;Atlantico;Olimpica Sto;;10,38230038;-73,46309662
+1597389;Tunja;BOYACA;Paraiso;Dtt;Smi;SMI G BASIC;Cundi-Boyaca;Tropiboy;;5,523358;-73,36612
+1597390;Tunja;BOYACA;Paraiso;Dtt;Smi;SMI G BASIC;Cundi-Boyaca;Tropiboy;;5,569588;-73,338413
+1597391;Duitama;BOYACA;Paraiso;Dtt;Smi;SMI G BASIC;Cundi-Boyaca;Tropiboy;;5,825253;-73,033003
+1597392;Duitama;BOYACA;Paraiso;Dtt;Smi;SMI G BASIC;Cundi-Boyaca;Tropiboy;;5,815042;-73,031282
+1597393;Sogamoso;BOYACA;Paraiso;Dtt;Smi;SMI M BASIC;Cundi-Boyaca;Tropiboy;;5,72555;-72,922338
+1597394;Duitama;BOYACA;Pasadena;Dtt;Smi;SMI M PREMIUM;Cundi-Boyaca;Pastor J Duitama;;5,823345;-73,026282
+1597395;Sogamoso;BOYACA;Pasadena;Dtt;Smi;SMI M BASIC;Cundi-Boyaca;Pastor J Duitama;;5,717655;-72,926165
+1597396;Paipa;BOYACA;Pasadena;Dtt;Smi;SMI P;Cundi-Boyaca;Pastor J Duitama;;5,779947;-73,116142
+1597397;Bucaramanga;SANTANDER;Pastor J Bucaramanga;Dtt;Mayorista;MAYORISTA;Santanderes;Pastor J Bucaramanga;;7,155829906;-73,11160278
+1597398;Cucuta;NORTE DE SANTANDER;Pastor J Cucuta;Dtt;Mayorista;MAYORISTA;Santanderes;Pastor J Cucuta;;8,112030029;-72,48860168
+1597399;Ibague;TOLIMA;Popular;Dtt;Smi;SMI M BASIC;Centro;Surtilima;;4,451920033;-75,25260162
+1597400;Ibague;TOLIMA;Popular;Dtt;Smi;SMI M BASIC;Centro;Tropicana;;4,451920033;-75,25260162
+1597401;Neiva;HUILA;Popular;Dtt;Smi;SMI P;Centro;Tropicana;;2,928032;-75,292292
+1597402;Neiva;HUILA;Popular;Dtt;Smi;SMI M BASIC;Centro;Tropicana;;2,938818;-75,285557
+1597403;Neiva;HUILA;Popular;Dtt;Smi;SMI M BASIC;Centro;Tropicana;;2,939875;-75,268418
+1597404;Neiva;HUILA;Popular;Dtt;Smi;SMI M BASIC;Centro;Tropicana;;2,94014;-75,25265
+1597405;Neiva;HUILA;Popular;Dtt;Smi;SMI P;Centro;Tropicana;;2,893793;-75,280973
+1597406;Barranquilla;ATLANTICO;Pricesmart;Mt;Club;CLUB;Atlantico;Pricesmart;;11,01862;-74,835618
+1597407;Santiago De Cali;VALLE DEL CAUCA;Pricesmart;Mt;Club;CLUB;Pacifico;Pricesmart;;3,399039984;-76,57649994
+1597408;Chia;CUNDINAMARCA;Pricesmart;Mt;Club;CLUB;Cundi-Boyaca;Pricesmart;;4,882159;-74,015872
+1597409;Medellin;ANTIOQUIA;Pricesmart;Mt;Club;CLUB;Antioquia-Choco;Pricesmart;;6,257589817;-75,61100006
+1598357;Cartagena;BOLIVAR;Distrialidos;Dtt;Mayorista;MAYORISTA;Atlantico;Distrialidos;;10,44919968;-75,46990204
+1598358;Cartagena;BOLIVAR;Distrialidos;Dtt;Mayorista;MAYORISTA;Atlantico;Distrialidos;;10,41157;-75,523087
+1598359;Cartagena;BOLIVAR;Distrialidos;Dtt;Mayorista;MAYORISTA;Atlantico;Distrialidos;;10,412022;-75,5237
+1599303;Caucasia;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Antioquia-Choco;Exito;Miercoles - Sabado;7,867939949;-75,03500366
+1599304;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,316110134;-74,18109894
+1599305;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Pacifico;Exito;Lunes - Viernes;3,399039984;-76,57649994
+1599306;Fusagasuga;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,323530197;-74,38860321
+1599307;Florencia;CAQUETA;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Atlantico;Exito;Jueves;1,749140024;-75,55819702
+1599308;Riohacha;LA GUAJIRA;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Atlantico;Exito;Jueves;11,24300003;-72,95880127
+1599309;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,316110134;-74,18109894
+1599310;La Ceja;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG;Antioquia-Choco;Exito;Miercoles - Sabado;5,992519855;-75,43090057
+1599311;Florencia;CAQUETA;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Llanos;Exito;Miercoles - Lunes;1,749140024;-75,55819702
+1599312;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Carulla;Miercoles - Sabado;6,257589817;-75,61100006
+1599313;Turbo;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG;Antioquia-Choco;Exito;Miercoles - Sabado;7,998060226;-76,72389984
+1599314;Santa Marta;MAGDALENA;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Atlantico;Carulla;Jueves;11,147138;-74,221928
+1599315;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Antioquia-Choco;Carulla;Miercoles - Sabado;6,257589817;-75,61100006
+1599316;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,316110134;-74,18109894
+1599317;Tulua;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Pacifico;Exito;Lunes - Viernes;4,028409958;-76,03250122
+1599318;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Exito;Miercoles - Lunes;4,316110134;-74,18109894
+1599319;Apartado;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Antioquia-Choco;Exito;Miercoles - Sabado;7,896140099;-76,56700134
+1599320;Villavicencio;META;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Llanos;Carulla;Miercoles - Lunes;4,091670036;-73,49289703
+1599321;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,68225;-74,116993
+1599322;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Exito;Miercoles - Lunes;4,316110134;-74,18109894
+1599323;Pitalito;HUILA;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Centro;Exito;Jueves - Lunes;1,827900052;-76,11920166
+1599324;Barranquilla;ATLANTICO;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Atlantico;Carulla;Jueves;11,015404;-74,827703
+1599325;Barranquilla;ATLANTICO;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Atlantico;Exito;Jueves;11,001975;-74,796743
+1599326;Barranquilla;ATLANTICO;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Atlantico;Exito;Jueves;11,013533;-74,79768
+1599327;Zipaquira;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;5,017083;-74,002102
+1599328;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG;Cundi-Boyaca;Exito;Miercoles - Lunes;4,316110134;-74,18109894
+1599329;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Carulla;Miercoles - Sabado;6,257589817;-75,61100006
+1599330;Neiva;HUILA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Centro;Exito;Jueves - Lunes;2,90893;-75,279283
+1599331;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,723192;-74,063002
+1599332;Carepa;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG;Antioquia-Choco;Exito;Miercoles - Sabado;7,789169788;-76,65670013
+1599333;Soacha;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;4,587912;-74,20594
+1599334;Soledad;ATLANTICO;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Atlantico;Exito;Jueves;10,941058;-74,78314
+1599335;Barranquilla;ATLANTICO;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Atlantico;Carulla;Jueves;11,015688;-74,814423
+1599336;La Calera;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,700789928;-73,92939758
+1599337;Yopal;CASANARE;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Llanos;Exito;Miercoles - Lunes;5,242740154;-72,25800323
+1599338;Manizales;CALDAS;Grupo Comercial exito;Mt;Ka;SUPERG PREMIUM;Eje Cafetero;Carulla;Jueves;5,056303;-75,486082
+1599339;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,316110134;-74,18109894
+1599340;Santa Marta;MAGDALENA;Grupo Comercial exito;Mt;Ka;SUPERG;Atlantico;Exito;Jueves;11,1218996;-73,88529968
+1599341;Barranquilla;ATLANTICO;Grupo Comercial exito;Mt;Ka;SUPERG;Atlantico;Carulla;Jueves;10,98149967;-74,82769775
+1599342;Santa Marta;MAGDALENA;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Atlantico;Exito;Jueves;11,1218996;-73,88529968
+1599343;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,316110134;-74,18109894
+1599344;La Estrella;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Antioquia-Choco;Exito;Miercoles - Sabado;6,137599945;-75,64900208
+1599345;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG;Cundi-Boyaca;Exito;Miercoles - Lunes;4,316110134;-74,18109894
+1599346;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,316110134;-74,18109894
+1599347;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,316110134;-74,18109894
+1599348;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG;Antioquia-Choco;Exito;Miercoles - Sabado;6,257589817;-75,61100006
+1599349;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,593849;-74,143455
+1599350;Santa Marta;MAGDALENA;Grupo Comercial exito;Mt;Ka;SUPERP;Atlantico;Carulla;Jueves;11,1218996;-73,88529968
+1599351;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,316110134;-74,18109894
+1599352;Pereira;RISARALDA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Eje Cafetero;Exito;Jueves;4,812982;-75,693138
+1599353;Cucuta;NORTE DE SANTANDER;Grupo Comercial exito;Mt;Ka;SUPERG;Santanderes;Exito;Jueves;8,112030029;-72,48860168
+1599354;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,316110134;-74,18109894
+1599355;Pereira;RISARALDA;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Eje Cafetero;Exito;Jueves;4,804593;-75,737938
+1599356;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;SUPERG;Atlantico;Carulla;Jueves;10,44919968;-75,46990204
+1599357;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG;Antioquia-Choco;Exito;Miercoles - Sabado;6,257589817;-75,61100006
+1599358;Yopal;CASANARE;Grupo Comercial exito;Mt;Ka;SUPERG;Llanos;Exito;Miercoles - Lunes;5,242740154;-72,25800323
+1599359;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,316110134;-74,18109894
+1599360;Barranquilla;ATLANTICO;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Atlantico;Exito;Jueves;10,98149967;-74,82769775
+1599361;Santa Marta;MAGDALENA;Grupo Comercial exito;Mt;Ka;SUPERP;Atlantico;Carulla;Jueves;11,1218996;-73,88529968
+1599362;Envigado;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG;Antioquia-Choco;Exito;Miercoles - Sabado;6,153580189;-75,54489899
+1599363;Armenia;QUINDIO;Grupo Comercial exito;Mt;Ka;SUPERG;Eje Cafetero;Exito;Jueves;4,499499798;-75,72489929
+1599364;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Exito;Miercoles - Lunes;4,316110134;-74,18109894
+1599365;Sincelejo;SUCRE;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Atlantico;Exito;Jueves;9,302237;-75,395427
+1599366;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,316110134;-74,18109894
+1599367;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG;Cundi-Boyaca;Exito;Miercoles - Lunes;4,316110134;-74,18109894
+1599368;Magangue;BOLIVAR;Grupo Comercial exito;Mt;Ka;SUPERG;Atlantico;Exito;Jueves;9,169509888;-74,74729919
+1599369;Chiquinquira;BOYACA;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Exito;Miercoles - Lunes;5,622489929;-73,80419922
+1599370;Bucaramanga;SANTANDER;Grupo Comercial exito;Mt;Ka;SUPERP;Santanderes;Exito;Jueves;7,155829906;-73,11160278
+1599371;Sogamoso;BOYACA;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;5,667960167;-72,88629913
+1599372;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,316110134;-74,18109894
+1599373;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,316110134;-74,18109894
+1599374;La Dorada;CALDAS;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Exito;Jueves;5,540530205;-74,71230316
+1599375;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,316110134;-74,18109894
+1599376;Valledupar;CESAR;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Atlantico;Exito;Jueves;10,38230038;-73,46309662
+1599377;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;SUPERP;Atlantico;Carulla;Jueves;10,44919968;-75,46990204
+1599378;Neiva;HUILA;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Centro;Exito;Jueves - Lunes;2,993360043;-75,2723999
+1599379;Ibague;TOLIMA;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Exito;Miercoles - Lunes;4,451920033;-75,25260162
+1599380;Duitama;BOYACA;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Exito;Miercoles - Lunes;5,890600204;-73,06710052
+1599381;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERG;Antioquia-Choco;Exito;Miercoles - Sabado;6,257589817;-75,61100006
+1599382;Pasto;NARINO;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Pacifico;Exito;Lunes - Viernes;1,083610058;-77,20610046
+1599383;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Antioquia-Choco;Exito;Miercoles - Sabado;6,257589817;-75,61100006
+1599384;Guadalajara De Buga;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERG BASIC;Pacifico;Exito;Lunes - Viernes;3,855249882;-76,10510254
+1599385;San Jeronimo;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Exito;Miercoles - Sabado;6,550779819;-73,11889648
+1599386;Lorica;CORDOBA;Grupo Comercial exito;Mt;Ka;SUPERG;Atlantico;Exito;Jueves;9,165040016;-75,90979767
+1599387;Albania;LA GUAJIRA;Grupo Comercial exito;Mt;Ka;SUPERP;Atlantico;Carulla;Jueves;11,22869968;-72,53209686
+1599388;Malambo;ATLANTICO;Grupo Comercial exito;Mt;Ka;SUPERP;Atlantico;Exito;Jueves;10,84829998;-74,80619812
+1599389;Armenia;QUINDIO;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Eje Cafetero;Exito;Jueves;4,499499798;-75,72489929
+1599390;Manizales;CALDAS;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Carulla;Jueves;5,083429813;-75,50730133
+1599391;Monteria;CORDOBA;Grupo Comercial exito;Mt;Ka;SUPERG;Atlantico;Exito;Jueves;8,755063;-75,871643
+1599392;Girardot;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;SUPERP;Centro;Exito;Miercoles - Lunes;4,338150024;-74,81140137
+1599393;Sabanalarga;ATLANTICO;Grupo Comercial exito;Mt;Ka;SUPERG;Atlantico;Exito;Jueves;10,62250042;-74,95510101
+1599394;Espinal;TOLIMA;Grupo Comercial exito;Mt;Ka;SUPERG;Centro;Exito;Jueves - Lunes;4,166480064;-74,89350128
+1599395;Toluviejo;SUCRE;Grupo Comercial exito;Mt;Ka;SUPERP;Atlantico;Exito;Jueves;9,490300179;-75,44450378
+1599396;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,316110134;-74,18109894
+1599397;Barranquilla;ATLANTICO;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Atlantico;Carulla;Jueves;11,02251;-74,862995
+1599398;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Carulla;Miercoles - Lunes;4,316110134;-74,18109894
+1599399;San Gil;SANTANDER;Cencosud;Mt;Ka;SUPERP;Santanderes;Metro;Sabado;6,550779819;-73,11889648
+1599400;Palmira;VALLE DEL CAUCA;Cencosud;Mt;Ka;SUPERG BASIC;Pacifico;Metro;Jueves - Lunes;3,539468;-76,296632
+1599401;Pasto;NARINO;Cencosud;Mt;Ka;SUPERP BASIC;Pacifico;Metro;Jueves - Lunes;1,083610058;-77,20610046
+1599402;Neiva;HUILA;Cencosud;Mt;Ka;SUPERG;Centro;Metro;Viernes - Lunes;2,993360043;-75,2723999
+1599403;Yopal;CASANARE;Cencosud;Mt;Ka;SUPERG;Llanos;Jumbo;Jueves - Lunes;5,242740154;-72,25800323
+1599404;Riohacha;LA GUAJIRA;Cencosud;Mt;Ka;SUPERG;Atlantico;Metro;Viernes;11,24300003;-72,95880127
+1599405;Barranquilla;ATLANTICO;Cencosud;Mt;Ka;SUPERG BASIC;Atlantico;Metro;Viernes;10,947355;-74,783412
+1599406;Santiago De Cali;VALLE DEL CAUCA;Cencosud;Mt;Ka;SUPERG;Pacifico;Metro;Jueves - Lunes;3,399039984;-76,57649994
+1599407;Medellin;ANTIOQUIA;Cencosud;Mt;Ka;SUPERG BASIC;Antioquia-Choco;Metro;Miercoles;6,25998;-75,570913
+1599408;Barranquilla;ATLANTICO;Cencosud;Mt;Ka;SUPERG;Atlantico;Metro;Viernes;10,98149967;-74,82769775
+1599409;Cucuta;NORTE DE SANTANDER;Cencosud;Mt;Ka;SUPERG BASIC;Santanderes;Metro;Sabado;8,112030029;-72,48860168
+1599410;Pasto;NARINO;Cencosud;Mt;Ka;SUPERP;Pacifico;Metro Express;Jueves - Lunes;1,083610058;-77,20610046
+1599411;Bucaramanga;SANTANDER;Cencosud;Mt;Ka;SUPERP;Santanderes;Metro;Sabado;7,155829906;-73,11160278
+1599412;Bucaramanga;SANTANDER;Cencosud;Mt;Ka;SUPERP;Santanderes;Metro Express;Sabado;7,155829906;-73,11160278
+1599413;Ibague;TOLIMA;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Exito;Jueves - Lunes;4,451920033;-75,25260162
+1599414;Mosquera;CUNDINAMARCA;Homecenter;Mt;Ka;CLUB;Cundi-Boyaca;Homecenter;Lunes;4,700913;-74,230888
+1599415;Tunja;BOYACA;Homecenter;Mt;Ka;CLUB;Cundi-Boyaca;Homecenter;Lunes;5,51846981;-73,37799835
+1599416;Bogota;BOGOTA D.C;Homecenter;Mt;Ka;CLUB;Cundi-Boyaca;Homecenter;Lunes;4,316110134;-74,18109894
+1599417;Yopal;CASANARE;Homecenter;Mt;Ka;CLUB;Llanos;Homecenter;Martes;5,242740154;-72,25800323
+1599418;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sao;;4,316110134;-74,18109894
+1599419;Monteria;CORDOBA;Olimpica;Mt;Ka;HIPERMERCADO;Atlantico;Olimpica Sto;;8,584699631;-75,95059967
+1600421;Monteria;CORDOBA;Grupo Litoral Monteria;Dtt;Mayorista;MAYORISTA;Atlantico;Grupo Litoral Monteria;;8,7434;-75,887148
+1600422;Monteria;CORDOBA;Grupo Litoral Monteria;Dtt;Mayorista;MAYORISTA;Atlantico;Grupo Litoral Monteria;;8,742832;-75,888343
+1600423;Monteria;CORDOBA;Grupo Litoral Monteria;Dtt;Mayorista;MAYORISTA;Atlantico;Grupo Litoral Monteria;;8,742903;-75,888408
+1600424;Monteria;CORDOBA;Grupo Litoral Monteria;Dtt;Mayorista;MAYORISTA;Atlantico;Grupo Litoral Monteria;;8,742552;-75,888048
+1600425;Monteria;CORDOBA;Grupo Litoral Monteria;Dtt;Mayorista;MAYORISTA;Atlantico;Grupo Litoral Monteria;;8,742935;-75,888368
+1600426;Monteria;CORDOBA;Grupo Litoral Monteria;Dtt;Mayorista;MAYORISTA;Atlantico;Grupo Litoral Monteria;;8,742932;-75,888377
+1600427;Sincelejo;SUCRE;Grupo Litoral Monteria;Dtt;Mayorista;MAYORISTA;Atlantico;Grupo Litoral Monteria;;9,299805;-75,394713
+1600428;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1600429;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HYPER BASIC;Cundi-Boyaca;Surtimayorista;;4,633837;-74,154702
+1600430;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1600431;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1600432;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1600433;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1600434;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1600435;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1600436;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1600437;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1600438;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1600439;Chia;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Cundi-Boyaca;Surtimayorista;;4,865449905;-74,03690338
+1600440;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1600441;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1600442;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1600443;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1600444;Madrid;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Cundi-Boyaca;Surtimayorista;;4,772679806;-74,25980377
+1600445;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMERCADO;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1611787;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP PREMIUM;Atlantico;Olimpica Sto;;11,011722;-74,832247
+1612656;Bogota;BOGOTA D.C;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Cundi-Boyaca;Distribuidora;;4,59866;-74,179725
+1612657;Bogota;BOGOTA D.C;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Cundi-Boyaca;Distribuidora;;4,588898;-74,09357
+1612658;Bogota;BOGOTA D.C;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Cundi-Boyaca;Distribuidora;;4,605723;-74,211303
+1612659;Bogota;BOGOTA D.C;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Cundi-Boyaca;Distribuidora;;4,629407;-74,193287
+1612660;Bogota;BOGOTA D.C;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Cundi-Boyaca;Distribuidora;;4,316110134;-74,18109894
+1612661;Bogota;BOGOTA D.C;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Cundi-Boyaca;Distribuidora;;4,316110134;-74,18109894
+1612662;Pereira;RISARALDA;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Eje Cafetero;Distribuidora;;4,813483;-75,684133
+1612663;Pereira;RISARALDA;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Eje Cafetero;Distribuidora;;4,804303;-75,729235
+1612664;Pereira;RISARALDA;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Eje Cafetero;Distribuidora;;4,824077;-75,697305
+1612665;Sogamoso;BOYACA;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Cundi-Boyaca;Distribuidora;;5,792293;-73,064173
+1612666;Sogamoso;BOYACA;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Cundi-Boyaca;Distribuidora;;5,667960167;-72,88629913
+1612667;Sogamoso;BOYACA;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Cundi-Boyaca;Distribuidora;;5,667960167;-72,88629913
+1612668;Medellin;ANTIOQUIA;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Antioquia-Choco;Distribuidora;;6,257589817;-75,61100006
+1612669;Medellin;ANTIOQUIA;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Antioquia-Choco;Distribuidora;;6,188093;-75,588045
+1612670;Medellin;ANTIOQUIA;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Antioquia-Choco;Distribuidora;;6,27517;-75,549283
+1612671;Medellin;ANTIOQUIA;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Antioquia-Choco;Distribuidora;;6,257589817;-75,61100006
+1612930;Jamundi;VALLE DEL CAUCA;Caribe;Dtt;Smi;SMI M BASIC;Pacifico;Tropicana;;3,213890076;-76,62760162
+1612931;Jamundi;VALLE DEL CAUCA;Caribe;Dtt;Smi;SMI M BASIC;Pacifico;Tropicana;;3,213890076;-76,62760162
+1612932;Palmira;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP BASIC;Pacifico;Olimpica Sto;;3,515833;-76,375622
+1612933;Tulua;VALLE DEL CAUCA;Canaveral;Dtt;Smi;SMI G BASIC;Pacifico;Corbeta;;4,028409958;-76,03250122
+1612934;Ricaurte;CUNDINAMARCA;Grupo Comercial exito;Dtt;Ka;SUPERP BASIC;Centro;Carulla;Miercoles - Lunes;4,307360172;-74,72940063
+1612935;Cucuta;NORTE DE SANTANDER;Olimpica;Mt;Ka;HYPER BASIC;Santanderes;Olimpica Sao;;8,112030029;-72,48860168
+1612936;Cucuta;NORTE DE SANTANDER;Olimpica;Mt;Ka;SUPERP BASIC;Santanderes;Olimpica Sto;;8,112030029;-72,48860168
+1612937;Cucuta;NORTE DE SANTANDER;Olimpica;Mt;Ka;SUPERP PREMIUM;Santanderes;Olimpica Sto;;8,112030029;-72,48860168
+1613492;Bogota;BOGOTA D.C;Prueba;Prueba;Prueba;PRUEBA;Cundi-Boyaca;Prueba;;4,316110134;-74,18109894
+1614154;Restrepo;META;Olimpica;Mt;Ka;SMI P;Pacifico;Olimpica Sto;;4,23747015;-73,47370148
+1614155;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERG;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1614156;Tulua;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;4,028409958;-76,03250122
+1614157;Santander De Quilichao;CAUCA;Olimpica;Mt;Ka;SMI P;Pacifico;Olimpica Sto;;2,984469891;-76,498703
+1614158;Tulua;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERG;Pacifico;Olimpica Sto;;4,028409958;-76,03250122
+1614159;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1614160;Candelaria;ATLANTICO;Olimpica;Mt;Ka;SMI P;Pacifico;Olimpica Sto;;10,48900032;-74,87760162
+1614161;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP BASIC;Pacifico;Olimpica Sto;;3,431187;-76,528668
+1614162;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1614163;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1614164;Guacari;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;3,783780098;-76,29450226
+1614165;Popayan;CAUCA;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;2,471699953;-76,59190369
+1614166;Cerrito;SANTANDER;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;6,903920174;-72,645401
+1614167;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614168;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614169;Madrid;CUNDINAMARCA;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,772679806;-74,25980377
+1614170;Cota;CUNDINAMARCA;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,788269997;-74,12339783
+1614171;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614172;Soacha;CUNDINAMARCA;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,53760004;-74,22989655
+1614173;Villavicencio;META;Olimpica;Mt;Ka;SUPERP;Llanos;Olimpica Sto;;4,091670036;-73,49289703
+1614174;Palmira;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,558389902;-76,22779846
+1614175;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,399039984;-76,57649994
+1614176;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,399039984;-76,57649994
+1614177;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,399039984;-76,57649994
+1614178;Jamundi;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,213890076;-76,62760162
+1614179;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Pacifico;Superinter;;3,399039984;-76,57649994
+1614180;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,399039984;-76,57649994
+1614181;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,399039984;-76,57649994
+1614182;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,399039984;-76,57649994
+1614183;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,399039984;-76,57649994
+1614184;Armenia;QUINDIO;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;4,499499798;-75,72489929
+1614185;Armenia;QUINDIO;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;4,499499798;-75,72489929
+1614186;Calarca;QUINDIO;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;4,467879772;-75,65670013
+1614187;Caicedonia;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;4,309000015;-75,83670044
+1614188;Armenia;QUINDIO;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;4,499499798;-75,72489929
+1614189;La Tebaida;QUINDIO;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;4,435669899;-75,81729889
+1614190;Circasia;QUINDIO;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;4,604849815;-75,66690063
+1614191;Caicedonia;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;4,309000015;-75,83670044
+1614192;Cartago;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Pacifico;Superinter;;4,706850052;-75,91790009
+1614193;Pereira;RISARALDA;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Eje Cafetero;Superinter;;4,812937;-75,708843
+1614194;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614195;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614196;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614197;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614198;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614199;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614200;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614201;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614202;La Mesa;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,650770187;-74,47319794
+1614203;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614204;Bello;ANTIOQUIA;Colsubsidio;Mt;Ka;SUPERP;Antioquia-Choco;Colsubsidio;;6,358839989;-75,58969879
+1614205;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614206;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614207;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614208;Bello;ANTIOQUIA;Colsubsidio;Mt;Ka;SUPERP;Antioquia-Choco;Colsubsidio;;6,358839989;-75,58969879
+1614209;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614210;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614211;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614212;Soacha;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,53760004;-74,22989655
+1614213;Villeta;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;5,011670113;-74,48760223
+1614214;Cucuta;NORTE DE SANTANDER;Olimpica;Mt;Ka;SMI P;Santanderes;Olimpica Sto;;8,112030029;-72,48860168
+1614215;Dosquebradas;RISARALDA;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Eje Cafetero;Superinter;;4,831042;-75,677858
+1614216;Dosquebradas;RISARALDA;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;4,842020035;-75,66989899
+1614217;Zarzal;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;4,353600025;-76,05069733
+1614218;Pereira;RISARALDA;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;4,781290054;-75,71240234
+1614219;Dosquebradas;RISARALDA;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;4,842020035;-75,66989899
+1614220;Pereira;RISARALDA;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;4,781290054;-75,71240234
+1614221;Santa Rosa De Cabal;RISARALDA;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;4,833789825;-75,54949951
+1614222;Pereira;RISARALDA;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;4,781290054;-75,71240234
+1614223;Armenia;QUINDIO;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;4,499499798;-75,72489929
+1614224;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,399039984;-76,57649994
+1614225;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,399039984;-76,57649994
+1614226;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,399039984;-76,57649994
+1614227;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,399039984;-76,57649994
+1614228;Pereira;RISARALDA;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;4,781290054;-75,71240234
+1614229;Armenia;QUINDIO;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;4,499499798;-75,72489929
+1614230;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,399039984;-76,57649994
+1614231;Manizales;CALDAS;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;5,083429813;-75,50730133
+1614232;Manizales;CALDAS;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;5,083429813;-75,50730133
+1614233;Manizales;CALDAS;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;5,083429813;-75,50730133
+1614234;Manizales;CALDAS;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;5,083429813;-75,50730133
+1614235;Villa De San Diego De Ubate;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;5,316080093;-73,82009888
+1614236;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614237;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614238;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614239;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614240;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614241;Chiquinquira;BOYACA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;5,622489929;-73,80419922
+1614242;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614243;Ibague;TOLIMA;Colsubsidio;Mt;Ka;SUPERP;Centro;Colsubsidio;;4,451920033;-75,25260162
+1614244;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614245;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614246;Zipaquira;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;5,046189785;-74,02310181
+1614247;Soacha;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,53760004;-74,22989655
+1614248;Girardot;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,338150024;-74,81140137
+1614249;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614250;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614251;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614252;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614253;Soacha;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,53760004;-74,22989655
+1614254;Pereira;RISARALDA;Colsubsidio;Mt;Ka;SUPERP;Eje Cafetero;Colsubsidio;;4,781290054;-75,71240234
+1614255;Manizales;CALDAS;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;5,083429813;-75,50730133
+1614256;Manizales;CALDAS;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;5,083429813;-75,50730133
+1614257;Villamaria;CALDAS;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;4,940209866;-75,43540192
+1614258;Chinchina;CALDAS;Grupo Comercial exito;Mt;Ka;SUPERP;Eje Cafetero;Superinter;;4,987120152;-75,667099
+1614259;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614260;Rionegro;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;11,24300003;-72,95880127
+1614261;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614262;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614263;Mosquera;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;8,584699631;-75,95059967
+1614264;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614265;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614266;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614267;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614268;La Ceja;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;5,992519855;-75,43090057
+1614269;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614270;Soacha;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,53760004;-74,22989655
+1614271;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614272;La Mesa;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,650770187;-74,47319794
+1614273;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;6,257589817;-75,61100006
+1614274;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614275;Armenia;QUINDIO;Colsubsidio;Mt;Ka;SUPERP;Eje Cafetero;Colsubsidio;;4,499499798;-75,72489929
+1614276;Cartago;VALLE DEL CAUCA;Colsubsidio;Mt;Ka;SUPERP;Pacifico;Colsubsidio;;4,706850052;-75,91790009
+1614277;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP BASIC;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614278;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614279;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614280;Villa De Leyva;BOYACA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;5,66576004;-73,51490021
+1614281;Restrepo;META;Colsubsidio;Mt;Ka;SUPERP;Llanos;Colsubsidio;;4,23747015;-73,47370148
+1614282;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614283;Chia;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,865449905;-74,03690338
+1614284;Samaca;BOYACA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;5,470540047;-73,52120209
+1614285;Fusagasuga;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,323530197;-74,38860321
+1614286;Choconta;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;5,118420124;-73,68070221
+1614287;Funza;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,743999958;-74,19869995
+1614288;Gachancipa;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;5,010019779;-73,87670135
+1614289;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614290;Girardot;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,338150024;-74,81140137
+1614291;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614292;Pacho;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;5,16836977;-74,16339874
+1614293;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614294;Girardot;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,338150024;-74,81140137
+1614295;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614296;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614297;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614298;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614299;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614300;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;6,257589817;-75,61100006
+1614301;Barbosa;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;6,443419933;-75,32920074
+1614302;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614303;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614304;Itagui;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;6,179279804;-75,61419678
+1614305;Marinilla;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;6,185200214;-75,30490112
+1614306;Soacha;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,53760004;-74,22989655
+1614307;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614308;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614309;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614310;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;6,257589817;-75,61100006
+1614311;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;6,257589817;-75,61100006
+1614312;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614313;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614314;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614315;Cartago;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;SMI P;Pacifico;Comfandi;;4,706850052;-75,91790009
+1614316;Santiago De Cali;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;SUPERP;Pacifico;Comfandi;;3,399039984;-76,57649994
+1614317;Santiago De Cali;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;SMI P;Pacifico;Comfandi;;3,399039984;-76,57649994
+1614318;Acacias;META;Colsubsidio;Mt;Ka;SUPERP;Llanos;Colsubsidio;;4,009640217;-73,72389984
+1614319;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP BASIC;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614320;Tunja;BOYACA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;5,51846981;-73,37799835
+1614321;Armenia;QUINDIO;Colsubsidio;Mt;Ka;SUPERP;Eje Cafetero;Colsubsidio;;4,499499798;-75,72489929
+1614322;Jamundi;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;DROGUERIA;Pacifico;Comfandi;;3,213890076;-76,62760162
+1614323;Yumbo;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;DROGUERIA;Pacifico;Comfandi;;3,595910072;-76,51100159
+1614324;Tulua;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;DROGUERIA;Pacifico;Comfandi;;4,028409958;-76,03250122
+1614325;Palmira;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;SUPERP;Pacifico;Comfandi;;3,558389902;-76,22779846
+1614326;Santiago De Cali;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;SMI P;Pacifico;Comfandi;;3,399039984;-76,57649994
+1614327;Santiago De Cali;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;SUPERP;Pacifico;Comfandi;;3,399039984;-76,57649994
+1614328;Candelaria;ATLANTICO;Comfamiliar Del Valle Familia;Mt;Ka;SMI P;Pacifico;Comfandi;;10,48900032;-74,87760162
+1614329;Jamundi;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;SMI P;Pacifico;Comfandi;;3,213890076;-76,62760162
+1614330;Santiago De Cali;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;SMI P;Pacifico;Comfandi;;3,399039984;-76,57649994
+1614331;Santiago De Cali;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;SMI P;Pacifico;Comfandi;;3,399039984;-76,57649994
+1614332;Bugalagrande;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;SMI P;Pacifico;Comfandi;;4,196849823;-76,08959961
+1614333;Santiago De Cali;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;SMI P;Pacifico;Comfandi;;3,399039984;-76,57649994
+1614334;Santiago De Cali;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;SMI P;Pacifico;Comfandi;;3,399039984;-76,57649994
+1614335;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;6,257589817;-75,61100006
+1614336;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;6,257589817;-75,61100006
+1614337;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614338;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614339;Bello;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;6,358839989;-75,58969879
+1614340;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614341;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614342;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614343;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614344;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614345;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614346;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614347;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614348;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;6,257589817;-75,61100006
+1614349;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;6,257589817;-75,61100006
+1614350;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614351;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614352;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;6,257589817;-75,61100006
+1614353;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614354;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;6,257589817;-75,61100006
+1614355;Palmira;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;SMI P;Pacifico;Comfandi;;3,558389902;-76,22779846
+1614356;Ginebra;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;SMI P;Pacifico;Comfandi;;3,744100094;-76,19080353
+1614357;Tulua;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;SMI G;Pacifico;Comfandi;;4,028409958;-76,03250122
+1614358;Bugalagrande;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;SMI P;Pacifico;Comfandi;;4,196849823;-76,08959961
+1614359;Santiago De Cali;VALLE DEL CAUCA;Comfamiliar Del Valle Familia;Mt;Ka;SUPERP;Pacifico;Comfandi;;3,399039984;-76,57649994
+1614360;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Metro Express;;4,316110134;-74,18109894
+1614361;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Metro Express;;4,316110134;-74,18109894
+1614362;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Metro Express;;4,316110134;-74,18109894
+1614363;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Metro Express;;4,316110134;-74,18109894
+1614364;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Metro Express;;4,316110134;-74,18109894
+1614365;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Metro Express;;4,316110134;-74,18109894
+1614366;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Metro Express;;4,316110134;-74,18109894
+1614367;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Metro Express;;4,316110134;-74,18109894
+1614368;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Metro Express;;4,316110134;-74,18109894
+1614369;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Metro Express;;4,316110134;-74,18109894
+1614370;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Metro Express;;4,316110134;-74,18109894
+1614371;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Metro Express;;4,316110134;-74,18109894
+1614372;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Metro Express;;4,316110134;-74,18109894
+1614373;Bogota;BOGOTA D.C;Cencosud;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Metro Express;;4,316110134;-74,18109894
+1614374;Aguachica;CESAR;Olimpica;Mt;Ka;HIPERMERCADO;Atlantico;Olimpica Sao;;8,248740196;-73,62270355
+1614375;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;6,257589817;-75,61100006
+1614376;Gachancipa;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;5,010019779;-73,87670135
+1614377;Tocancipa;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,968850136;-73,92890167
+1614378;Soacha;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,53760004;-74,22989655
+1614379;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;6,257589817;-75,61100006
+1614380;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;6,257589817;-75,61100006
+1614381;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614382;La Calera;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,700789928;-73,92939758
+1614383;Soacha;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,53760004;-74,22989655
+1614384;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614385;Fredonia;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;5,887700081;-75,6792984
+1614386;Amaga;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;SUPERP;Antioquia-Choco;Surtimax;;6,032919884;-75,70800018
+1614387;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614388;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614389;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Surtimax;;4,316110134;-74,18109894
+1614390;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMAYORISTA;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1614391;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;HIPERMAYORISTA;Atlantico;Surtimayorista;;10,44919968;-75,46990204
+1614392;Barranquilla;ATLANTICO;Grupo Comercial exito;Mt;Ka;HIPERMAYORISTA;Atlantico;Surtimayorista;;10,98149967;-74,82769775
+1614393;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;HIPERMAYORISTA;Atlantico;Surtimayorista;;10,44919968;-75,46990204
+1614394;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMAYORISTA;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1614395;Apartado;ANTIOQUIA;Olimpica;Mt;Ka;SUPERG;Antioquia-Choco;Olimpica Sao;;7,896140099;-76,56700134
+1614396;Quibdo;CHOCO;Olimpica;Mt;Ka;HIPERMERCADO;Pacifico;Olimpica Sao;;5,938950062;-76,66369629
+1614397;Riohacha;LA GUAJIRA;Olimpica;Mt;Ka;HIPERMERCADO;Atlantico;Olimpica Sao;;11,24300003;-72,95880127
+1614398;Magangue;BOLIVAR;Olimpica;Mt;Ka;SUPERG;Atlantico;Olimpica Sao;;9,169509888;-74,74729919
+1614399;Yopal;CASANARE;Olimpica;Mt;Ka;SUPERG;Llanos;Olimpica Sao;;5,242740154;-72,25800323
+1614400;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;DROGUERIA;Atlantico;Olimpica Sdo;;10,98149967;-74,82769775
+1614401;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;DROGUERIA;Atlantico;Olimpica Sdo;;10,98149967;-74,82769775
+1614402;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;DROGUERIA;Atlantico;Olimpica Sdo;;10,98149967;-74,82769775
+1614403;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;DROGUERIA;Atlantico;Olimpica Sdo;;10,98149967;-74,82769775
+1614404;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;DROGUERIA;Atlantico;Olimpica Sdo;;10,98149967;-74,82769775
+1614405;Valledupar;CESAR;Olimpica;Mt;Ka;DROGUERIA;Atlantico;Olimpica Sdo;;10,38230038;-73,46309662
+1614406;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;DROGUERIA;Cundi-Boyaca;Olimpica Sdo;;4,316110134;-74,18109894
+1614407;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;DROGUERIA;Cundi-Boyaca;Olimpica Sdo;;4,316110134;-74,18109894
+1614408;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;DROGUERIA;Cundi-Boyaca;Olimpica Sdo;;4,316110134;-74,18109894
+1614409;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;DROGUERIA;Cundi-Boyaca;Olimpica Sdo;;4,316110134;-74,18109894
+1614410;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;DROGUERIA;Cundi-Boyaca;Olimpica Sdo;;4,316110134;-74,18109894
+1614411;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;DROGUERIA;Atlantico;Olimpica Sdo;;10,98149967;-74,82769775
+1614412;Santa Marta;MAGDALENA;Olimpica;Mt;Ka;DROGUERIA;Atlantico;Olimpica Sdo;;11,1218996;-73,88529968
+1614413;Santa Marta;MAGDALENA;Olimpica;Mt;Ka;DROGUERIA;Atlantico;Olimpica Sdo;;11,1218996;-73,88529968
+1614414;Monteria;CORDOBA;Olimpica;Mt;Ka;DROGUERIA;Atlantico;Olimpica Sdo;;8,584699631;-75,95059967
+1614415;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;DROGUERIA;Atlantico;Olimpica Sdo;;10,98149967;-74,82769775
+1614416;Funza;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;HIPERMAYORISTA;Cundi-Boyaca;Surtimayorista;;4,743999958;-74,19869995
+1614417;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMAYORISTA;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1614418;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMAYORISTA;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1614419;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMAYORISTA;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1614420;Malambo;ATLANTICO;Grupo Comercial exito;Mt;Ka;HIPERMAYORISTA;Atlantico;Surtimayorista;;10,84829998;-74,80619812
+1614421;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;HIPERMAYORISTA;Cundi-Boyaca;Surtimayorista;;4,316110134;-74,18109894
+1614422;Barranquilla;ATLANTICO;Grupo Comercial exito;Mt;Ka;HIPERMAYORISTA;Atlantico;Surtimayorista;;10,98149967;-74,82769775
+1614423;Santa Marta;MAGDALENA;Olimpica;Mt;Ka;DROGUERIA;Atlantico;Olimpica Sdo;;11,1218996;-73,88529968
+1614424;Manizales;CALDAS;Olimpica;Mt;Ka;DROGUERIA;Eje Cafetero;Olimpica Sdo;;5,083429813;-75,50730133
+1614425;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;DROGUERIA;Cundi-Boyaca;Olimpica Sdo;;4,316110134;-74,18109894
+1614426;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;DROGUERIA;Cundi-Boyaca;Olimpica Sdo;;4,316110134;-74,18109894
+1614427;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;DROGUERIA;Cundi-Boyaca;Olimpica Sdo;;4,316110134;-74,18109894
+1614428;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;DROGUERIA;Atlantico;Olimpica Sdo;;10,98149967;-74,82769775
+1614429;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;DROGUERIA;Atlantico;Olimpica Sdo;;10,98149967;-74,82769775
+1614430;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;DROGUERIA;Atlantico;Olimpica Sdo;;10,98149967;-74,82769775
+1614431;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;DROGUERIA;Atlantico;Olimpica Sdo;;10,98149967;-74,82769775
+1614432;Cartagena;BOLIVAR;Olimpica;Mt;Ka;DROGUERIA;Atlantico;Olimpica Sdo;;10,44919968;-75,46990204
+1614433;Valledupar;CESAR;Olimpica;Mt;Ka;DROGUERIA;Atlantico;Olimpica Sdo;;10,38230038;-73,46309662
+1614434;Monteria;CORDOBA;Olimpica;Mt;Ka;DROGUERIA;Atlantico;Olimpica Sdo;;8,584699631;-75,95059967
+1614435;Galapa;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,89770031;-74,88710022
+1614436;Soledad;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,90690041;-74,77839661
+1614437;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614438;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614439;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614440;Puerto Colombia;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;11,00469971;-74,90650177
+1614441;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614442;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614443;Galapa;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,89770031;-74,88710022
+1614444;Santo Tomas;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,74400043;-74,7947998
+1614445;Soledad;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,90690041;-74,77839661
+1614446;Soledad;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,90690041;-74,77839661
+1614447;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614448;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614449;Sabanagrande;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,79889965;-74,76879883
+1614450;Sabanalarga;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,62250042;-74,95510101
+1614451;Soledad;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,90690041;-74,77839661
+1614452;Palmar De Varela;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,69480038;-74,77010345
+1614453;Malambo;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,84829998;-74,80619812
+1614454;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614455;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614456;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614457;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614458;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614459;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614460;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614461;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1614462;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614463;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614464;Soledad;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,90690041;-74,77839661
+1614465;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614466;Soledad;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,90690041;-74,77839661
+1614467;Soledad;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,90690041;-74,77839661
+1614468;Ibague;TOLIMA;Olimpica;Mt;Ka;SUPERP;Centro;Olimpica Sto;;4,451920033;-75,25260162
+1614469;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614470;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614471;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614472;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614473;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614474;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614475;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614476;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614477;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614478;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614479;Arjona;BOLIVAR;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,16460037;-75,37139893
+1614480;Turbaco;BOLIVAR;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,35309982;-75,37969971
+1614481;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614482;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614483;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614484;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614485;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614486;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614487;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614488;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614489;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SMI P;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1614490;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SMI P;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1614491;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1614492;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SMI P;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1614493;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERG BASIC;Pacifico;Olimpica Sto;;3,419025;-76,4864
+1614494;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1614495;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1614496;Santa Marta;MAGDALENA;Olimpica;Mt;Ka;SUPERG;Atlantico;Olimpica Sto;;11,1218996;-73,88529968
+1614497;Santa Marta;MAGDALENA;Olimpica;Mt;Ka;SUPERG;Atlantico;Olimpica Sto;;11,1218996;-73,88529968
+1614498;Santa Marta;MAGDALENA;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;11,1218996;-73,88529968
+1614499;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SMI P;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1614500;Aracataca;MAGDALENA;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,64490032;-73,87969971
+1614501;Santa Marta;MAGDALENA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;11,1218996;-73,88529968
+1614502;Santa Marta;MAGDALENA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;11,1218996;-73,88529968
+1614503;Pivijay;MAGDALENA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,43299961;-74,41249847
+1614504;El Banco;MAGDALENA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;9,114930153;-73,98110199
+1614505;Santa Marta;MAGDALENA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;11,1218996;-73,88529968
+1614506;Riohacha;LA GUAJIRA;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;11,24300003;-72,95880127
+1614507;Santa Marta;MAGDALENA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;11,1218996;-73,88529968
+1614508;Santa Marta;MAGDALENA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;11,1218996;-73,88529968
+1614509;Fonseca;LA GUAJIRA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,82839966;-72,80180359
+1614510;Maicao;LA GUAJIRA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;11,38160038;-72,29499817
+1614511;Maicao;LA GUAJIRA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;11,38160038;-72,29499817
+1614512;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614513;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SMI P;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614514;San Juan Del Cesar;LA GUAJIRA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,8132;-73,0861969
+1614515;Bosconia;CESAR;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;9,946279526;-73,86630249
+1614516;Curumani;CESAR;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;9,238769531;-73,48809814
+1614517;Ocana;NORTE DE SANTANDER;Olimpica;Mt;Ka;SUPERP;Santanderes;Olimpica Sto;;8,231149673;-73,35250092
+1614518;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614519;Itagui;ANTIOQUIA;Olimpica;Mt;Ka;SUPERP;Antioquia-Choco;Olimpica Sto;;6,179279804;-75,61419678
+1614520;Monteria;CORDOBA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;8,584699631;-75,95059967
+1614521;Caucasia;ANTIOQUIA;Olimpica;Mt;Ka;SUPERP;Antioquia-Choco;Olimpica Sto;;7,867939949;-75,03500366
+1614522;Lorica;CORDOBA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;9,165040016;-75,90979767
+1614523;Sahagun;CORDOBA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;8,799010277;-75,4292984
+1614524;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614525;Sincelejo;SUCRE;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;9,316670418;-75,43170166
+1614526;Cerete;CORDOBA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;8,891010284;-75,83460236
+1614527;Monteria;CORDOBA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;8,584699631;-75,95059967
+1614528;Cienaga De Oro;CORDOBA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;8,841810226;-75,60780334
+1614529;Tierralta;CORDOBA;Olimpica;Mt;Ka;SUPERP;Llanos;Olimpica Sto;;7,813899994;-76,16850281
+1614530;Monteria;CORDOBA;Olimpica;Mt;Ka;SUPERP PREMIUM;Atlantico;Olimpica Sto;;8,736887;-75,853177
+1614531;Monteria;CORDOBA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;8,584699631;-75,95059967
+1614532;Turbo;ANTIOQUIA;Olimpica;Mt;Ka;SUPERP;Antioquia-Choco;Olimpica Sto;;7,998060226;-76,72389984
+1614533;Covenas;SUCRE;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;9,394450188;-75,65750122
+1614534;Sampues;SUCRE;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;9,165189743;-75,36029816
+1614535;Sincelejo;SUCRE;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;9,316670418;-75,43170166
+1614536;Sincelejo;SUCRE;Olimpica;Mt;Ka;SUPERG;Atlantico;Olimpica Sto;;9,316670418;-75,43170166
+1614537;Toluviejo;SUCRE;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;9,490300179;-75,44450378
+1614538;Sincelejo;SUCRE;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;9,316670418;-75,43170166
+1614539;Sincelejo;SUCRE;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;9,316670418;-75,43170166
+1614540;Sincelejo;SUCRE;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;9,316670418;-75,43170166
+1614541;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614542;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SMI P;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1614543;San Juan Nepomuceno;BOLIVAR;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;9,967960358;-75,06569672
+1614544;San Onofre;SUCRE;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;9,814599991;-75,50520325
+1614545;Itagui;ANTIOQUIA;Olimpica;Mt;Ka;SMI P;Antioquia-Choco;Olimpica Sto;;6,179279804;-75,61419678
+1614546;Rionegro;ANTIOQUIA;Olimpica;Mt;Ka;SMI P;Antioquia-Choco;Olimpica Sto;;11,24300003;-72,95880127
+1614547;Yopal;CASANARE;Alkosto;Mt;Club;CLUB;Llanos;Alkosto;;5,242740154;-72,25800323
+1614548;Medellin;ANTIOQUIA;Mecanelectro;Mt;Club;CLUB;Antioquia-Choco;Homesentry;;6,257589817;-75,61100006
+1614549;Ipiales;NARINO;Alkosto;Mt;Club;SUPERG;Pacifico;Alkosto;;0,558614016;-77,37039948
+1614550;Bogota;BOGOTA D.C;Mecanelectro;Mt;Club;CLUB;Cundi-Boyaca;Homesentry;;4,316110134;-74,18109894
+1614551;Bogota;BOGOTA D.C;Easy Colombia;Mt;Club;CLUB;Cundi-Boyaca;Easy;;4,316110134;-74,18109894
+1614552;Bogota;BOGOTA D.C;Easy Colombia;Mt;Club;CLUB;Cundi-Boyaca;Easy;;4,316110134;-74,18109894
+1614553;Bogota;BOGOTA D.C;Easy Colombia;Mt;Club;CLUB;Cundi-Boyaca;Easy;;4,316110134;-74,18109894
+1614554;Bogota;BOGOTA D.C;Easy Colombia;Mt;Club;CLUB;Cundi-Boyaca;Easy;;4,316110134;-74,18109894
+1614555;Bogota;BOGOTA D.C;Easy Colombia;Mt;Club;CLUB;Cundi-Boyaca;Easy;;4,316110134;-74,18109894
+1614556;Bogota;BOGOTA D.C;Easy Colombia;Mt;Club;CLUB;Cundi-Boyaca;Easy;;4,316110134;-74,18109894
+1614557;Bogota;BOGOTA D.C;Easy Colombia;Mt;Club;CLUB;Cundi-Boyaca;Easy;;4,316110134;-74,18109894
+1614558;Valledupar;CESAR;Easy Colombia;Mt;Club;CLUB;Atlantico;Easy;;10,38230038;-73,46309662
+1614559;Bogota;BOGOTA D.C;Easy Colombia;Mt;Club;CLUB;Cundi-Boyaca;Easy;;4,316110134;-74,18109894
+1614560;Valledupar;CESAR;Easy Colombia;Mt;Club;CLUB;Atlantico;Easy;;10,38230038;-73,46309662
+1614561;Bogota;BOGOTA D.C;Easy Colombia;Mt;Club;CLUB;Cundi-Boyaca;Easy;;4,316110134;-74,18109894
+1614562;Medellin;ANTIOQUIA;Easy Colombia;Mt;Club;CLUB;Antioquia-Choco;Easy;;6,257589817;-75,61100006
+1614563;Bogota;BOGOTA D.C;Mecanelectro;Mt;Club;CLUB;Cundi-Boyaca;Homesentry;;4,316110134;-74,18109894
+1614564;Cartagena;BOLIVAR;Mecanelectro;Mt;Club;CLUB;Atlantico;Homesentry;;10,44919968;-75,46990204
+1614565;Bello;ANTIOQUIA;Mecanelectro;Mt;Club;CLUB;Antioquia-Choco;Homesentry;;4,88375;-74,035577
+1614566;Bucaramanga;SANTANDER;Mecanelectro;Mt;Club;CLUB;Santanderes;Homesentry;;7,155829906;-73,11160278
+1614567;Villavicencio;META;Mecanelectro;Mt;Club;CLUB;Llanos;Homesentry;;4,091670036;-73,49289703
+1614568;La Ceja;ANTIOQUIA;Olimpica;Mt;Ka;SMI P;Antioquia-Choco;Olimpica Sto;;5,992519855;-75,43090057
+1614569;Copacabana;ANTIOQUIA;Olimpica;Mt;Ka;SMI P;Antioquia-Choco;Olimpica Sto;;6,351880074;-75,50080109
+1614570;Medellin;ANTIOQUIA;Olimpica;Mt;Ka;SMI P;Antioquia-Choco;Olimpica Sto;;6,257589817;-75,61100006
+1614571;Bello;ANTIOQUIA;Olimpica;Mt;Ka;SMI P;Antioquia-Choco;Olimpica Sto;;6,358839989;-75,58969879
+1614572;Medellin;ANTIOQUIA;Olimpica;Mt;Ka;SMI P;Antioquia-Choco;Olimpica Sto;;6,257589817;-75,61100006
+1614573;Medellin;ANTIOQUIA;Olimpica;Mt;Ka;SUPERP;Antioquia-Choco;Olimpica Sto;;6,257589817;-75,61100006
+1614574;Medellin;ANTIOQUIA;Olimpica;Mt;Ka;SMI P;Antioquia-Choco;Olimpica Sto;;6,257589817;-75,61100006
+1614575;Itagui;ANTIOQUIA;Olimpica;Mt;Ka;SMI P;Antioquia-Choco;Olimpica Sto;;6,179279804;-75,61419678
+1614576;Medellin;ANTIOQUIA;Olimpica;Mt;Ka;SMI P;Antioquia-Choco;Olimpica Sto;;6,257589817;-75,61100006
+1614577;Rionegro;ANTIOQUIA;Olimpica;Mt;Ka;SUPERP;Antioquia-Choco;Olimpica Sto;;11,24300003;-72,95880127
+1614578;Envigado;ANTIOQUIA;Olimpica;Mt;Ka;SUPERP;Antioquia-Choco;Olimpica Sto;;6,153580189;-75,54489899
+1614579;Pereira;RISARALDA;Olimpica;Mt;Ka;SMI P;Eje Cafetero;Olimpica Sto;;4,781290054;-75,71240234
+1614580;Santa Rosa De Cabal;RISARALDA;Olimpica;Mt;Ka;SUPERP;Eje Cafetero;Olimpica Sto;;4,833789825;-75,54949951
+1614581;Pereira;RISARALDA;Olimpica;Mt;Ka;SUPERP;Eje Cafetero;Olimpica Sto;;4,781290054;-75,71240234
+1614582;Pereira;RISARALDA;Olimpica;Mt;Ka;SMI P;Eje Cafetero;Olimpica Sto;;4,781290054;-75,71240234
+1614583;Pereira;RISARALDA;Olimpica;Mt;Ka;SUPERP;Eje Cafetero;Olimpica Sto;;4,781290054;-75,71240234
+1614584;Armenia;QUINDIO;Olimpica;Mt;Ka;SUPERP;Eje Cafetero;Olimpica Sto;;4,499499798;-75,72489929
+1614585;Manizales;CALDAS;Olimpica;Mt;Ka;SUPERP;Eje Cafetero;Olimpica Sto;;5,083429813;-75,50730133
+1614586;Manizales;CALDAS;Olimpica;Mt;Ka;SUPERP;Eje Cafetero;Olimpica Sto;;5,083429813;-75,50730133
+1614587;Chinchina;CALDAS;Olimpica;Mt;Ka;SMI P;Eje Cafetero;Olimpica Sto;;4,987120152;-75,667099
+1614588;Cucuta;NORTE DE SANTANDER;Olimpica;Mt;Ka;SUPERP;Santanderes;Olimpica Sto;;8,112030029;-72,48860168
+1614589;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614590;La Dorada;CALDAS;Olimpica;Mt;Ka;SUPERP;Eje Cafetero;Olimpica Sto;;5,540530205;-74,71230316
+1614591;Buenaventura;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;3,611490011;-77,08589935
+1614592;Girardot;CUNDINAMARCA;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,338150024;-74,81140137
+1614593;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614594;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614595;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614596;Villavicencio;META;Olimpica;Mt;Ka;SUPERP;Llanos;Olimpica Sto;;4,091670036;-73,49289703
+1614597;Popayan;CAUCA;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;2,471699953;-76,59190369
+1614598;Cienaga;MAGDALENA;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,88920021;-74,0428009
+1614599;San Miguel;SANTANDER;Olimpica;Mt;Ka;SUPERP;Santanderes;Olimpica Sto;;6,568120003;-72,64320374
+1614600;Mompos;BOLIVAR;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;9,142510414;-74,54519653
+1614601;Sincelejo;SUCRE;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;9,303342;-75,38014
+1614602;Carmen De Bolivar;BOLIVAR;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;9,699819565;-75,15789795
+1614603;Magangue;BOLIVAR;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;9,169509888;-74,74729919
+1614604;Necocli;ANTIOQUIA;Olimpica;Mt;Ka;SUPERP;Antioquia-Choco;Olimpica Sto;;8,493729591;-76,67700195
+1614605;Baranoa;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,79329967;-74,92220306
+1614606;Soledad;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,90690041;-74,77839661
+1614607;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614608;Sabanalarga;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,62250042;-74,95510101
+1614609;Bogota;BOGOTA D.C;Mecanelectro;Mt;Club;CLUB;Cundi-Boyaca;Homesentry;;4,316110134;-74,18109894
+1614610;Bogota;BOGOTA D.C;Mecanelectro;Mt;Club;CLUB;Cundi-Boyaca;Homesentry;;4,316110134;-74,18109894
+1614611;Barranquilla;ATLANTICO;Makro;Mt;Club;CLUB;Atlantico;Makro;;10,98149967;-74,82769775
+1614612;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;SUPERP;Atlantico;Carulla;;10,44919968;-75,46990204
+1614613;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Carulla;;4,316110134;-74,18109894
+1614614;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Carulla;;4,316110134;-74,18109894
+1614615;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Carulla;;4,316110134;-74,18109894
+1614616;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Carulla;;4,316110134;-74,18109894
+1614617;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Atlantico;Carulla;;10,44919968;-75,46990204
+1614618;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Pacifico;Carulla;;3,399039984;-76,57649994
+1614619;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Carulla;;4,316110134;-74,18109894
+1614620;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Carulla;;4,316110134;-74,18109894
+1614621;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;SUPERP PREMIUM;Atlantico;Carulla;;10,44919968;-75,46990204
+1614622;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Carulla;;4,316110134;-74,18109894
+1614623;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Antioquia-Choco;Carulla;;6,257589817;-75,61100006
+1614624;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Carulla;;4,316110134;-74,18109894
+1614625;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERG;Cundi-Boyaca;Carulla;;4,316110134;-74,18109894
+1614626;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;SUPERP;Cundi-Boyaca;Carulla;;4,316110134;-74,18109894
+1614627;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Carulla;;4,316110134;-74,18109894
+1614628;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Atlantico;Carulla;;10,44919968;-75,46990204
+1614629;Pereira;RISARALDA;Olimpica;Mt;Ka;SUPERP BASIC;Eje Cafetero;Olimpica Sto;;4,795273;-75,74002
+1614630;La Union;ANTIOQUIA;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;5,940430164;-75,35430145
+1614631;Jamundi;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;3,213890076;-76,62760162
+1614632;Popayan;CAUCA;Olimpica;Mt;Ka;SMI P;Pacifico;Olimpica Sto;;2,471699953;-76,59190369
+1614633;Cartago;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;4,706850052;-75,91790009
+1614634;Roldanillo;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;4,443570137;-76,16819763
+1614635;Neiva;HUILA;Olimpica;Mt;Ka;SUPERP;Centro;Olimpica Sto;;2,993360043;-75,2723999
+1614636;Pitalito;HUILA;Olimpica;Mt;Ka;SMI P;Centro;Olimpica Sto;;1,827900052;-76,11920166
+1614637;Pitalito;HUILA;Olimpica;Mt;Ka;SMI P;Centro;Olimpica Sto;;1,827900052;-76,11920166
+1614638;San Agustin;HUILA;Olimpica;Mt;Ka;SMI P;Cundi-Boyaca;Olimpica Sto;;1,924170017;-76,41660309
+1614639;Puerto Boyaca;BOYACA;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;5,95347023;-74,45290375
+1614640;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614641;Soacha;CUNDINAMARCA;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,53760004;-74,22989655
+1614642;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SMI P;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614643;Campoalegre;HUILA;Olimpica;Mt;Ka;SMI P;Centro;Olimpica Sto;;2,658669949;-75,32939911
+1614644;La Dorada;CALDAS;Olimpica;Mt;Ka;SUPERP;Eje Cafetero;Olimpica Sto;;5,540530205;-74,71230316
+1614645;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614646;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614647;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614648;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERG;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614649;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614650;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614651;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614652;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614653;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614654;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614655;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614656;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614657;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614658;Cartagena;BOLIVAR;Olimpica;Mt;Ka;SUPERG;Atlantico;Olimpica Sto;;10,44919968;-75,46990204
+1614659;Santa Marta;MAGDALENA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;11,1218996;-73,88529968
+1614660;Santa Marta;MAGDALENA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;11,1218996;-73,88529968
+1614661;Santa Marta;MAGDALENA;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;11,1218996;-73,88529968
+1614662;Fundacion;MAGDALENA;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;10,45940018;-73,88410187
+1614663;Pereira;RISARALDA;Olimpica;Mt;Ka;SUPERP BASIC;Eje Cafetero;Olimpica Sto;;4,781290054;-75,71240234
+1614664;Armenia;QUINDIO;Olimpica;Mt;Ka;SUPERP;Eje Cafetero;Olimpica Sto;;4,499499798;-75,72489929
+1614665;Manizales;CALDAS;Olimpica;Mt;Ka;SUPERG;Eje Cafetero;Olimpica Sto;;5,083429813;-75,50730133
+1614666;Espinal;TOLIMA;Olimpica;Mt;Ka;SUPERP;Centro;Olimpica Sto;;4,166480064;-74,89350128
+1614667;Tunja;BOYACA;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;5,51846981;-73,37799835
+1614668;Tunja;BOYACA;Olimpica;Mt;Ka;SMI P;Cundi-Boyaca;Olimpica Sto;;5,51846981;-73,37799835
+1614669;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SMI P;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614670;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614671;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Atlantico;Carulla;;10,44919968;-75,46990204
+1614672;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614673;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614674;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614675;Villa Pinzon;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;5,227300167;-73,57730103
+1614676;Tocaima;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,452070236;-74,64859772
+1614677;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614678;Melgar;TOLIMA;Colsubsidio;Mt;Ka;SUPERP;Centro;Colsubsidio;;4,186049938;-74,63780212
+1614679;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614680;Duitama;BOYACA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;5,890600204;-73,06710052
+1614681;Cota;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,788269997;-74,12339783
+1614682;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614683;La Mesa;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,650770187;-74,47319794
+1614684;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614685;Fusagasuga;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,323530197;-74,38860321
+1614686;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614687;Cajica;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,930399895;-74,0298996
+1614688;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614689;Girardot;CUNDINAMARCA;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,338150024;-74,81140137
+1614690;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614691;Bogota;BOGOTA D.C;Colsubsidio;Mt;Ka;SUPERP;Cundi-Boyaca;Colsubsidio;;4,316110134;-74,18109894
+1614692;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SMI P;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614693;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SMI P;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614694;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614695;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614696;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP BASIC;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614697;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614698;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SMI P;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614699;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614700;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614701;Zipaquira;CUNDINAMARCA;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;5,046189785;-74,02310181
+1614702;Puerto Tejada;CAUCA;Olimpica;Mt;Ka;SMI P;Pacifico;Olimpica Sto;;3,266720057;-76,41850281
+1614703;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP BASIC;Pacifico;Olimpica Sto;;3,471101;-76,508866
+1614704;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SMI P;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1614705;Cartago;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;4,706850052;-75,91790009
+1614706;Cartago;VALLE DEL CAUCA;Olimpica;Mt;Ka;SMI P;Pacifico;Olimpica Sto;;4,706850052;-75,91790009
+1614707;Sevilla;VALLE DEL CAUCA;Olimpica;Mt;Ka;SMI P;Pacifico;Olimpica Sto;;4,19340992;-75,88819885
+1614708;Zarzal;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;4,353600025;-76,05069733
+1614709;Quimbaya;QUINDIO;Olimpica;Mt;Ka;SMI P;Eje Cafetero;Olimpica Sto;;4,610270023;-75,792099
+1614710;Montenegro;QUINDIO;Olimpica;Mt;Ka;SUPERP;Eje Cafetero;Olimpica Sto;;4,521890163;-75,81809998
+1614711;Calarca;QUINDIO;Olimpica;Mt;Ka;SUPERP;Eje Cafetero;Olimpica Sto;;4,467879772;-75,65670013
+1614712;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP BASIC;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614713;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614714;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERP BASIC;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614715;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERG;Cundi-Boyaca;Olimpica Sto;;4,316110134;-74,18109894
+1614716;Bogota;BOGOTA D.C;Olimpica;Mt;Ka;SUPERG BASIC;Cundi-Boyaca;Olimpica Sto;;4,865972;-74,039552
+1614717;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614718;Barranquilla;ATLANTICO;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1614719;Santiago De Cali;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERG;Pacifico;Olimpica Sto;;3,399039984;-76,57649994
+1614720;Caicedonia;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERP;Pacifico;Olimpica Sto;;4,309000015;-75,83670044
+1614721;Santa Marta;MAGDALENA;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;11,1218996;-73,88529968
+1614722;Sincelejo;SUCRE;Olimpica;Mt;Ka;SUPERP;Atlantico;Olimpica Sto;;9,316670418;-75,43170166
+1614723;Monteria;CORDOBA;Olimpica;Mt;Ka;SMI P;Atlantico;Olimpica Sto;;8,584699631;-75,95059967
+1614724;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP BASIC;Pacifico;Superinter;;3,399039984;-76,57649994
+1614725;Palmira;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,558389902;-76,22779846
+1614726;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,399039984;-76,57649994
+1614727;Palmira;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,558389902;-76,22779846
+1614728;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,399039984;-76,57649994
+1614729;Yumbo;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,581275;-76,487673
+1614730;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,399039984;-76,57649994
+1614731;Santiago De Cali;VALLE DEL CAUCA;Grupo Comercial exito;Mt;Ka;SUPERP;Pacifico;Superinter;;3,399039984;-76,57649994
+1615226;Santiago De Cali;VALLE DEL CAUCA;Mercamio;Dtt;Smi;SMI G BASIC;Pacifico;Corbeta;;3,399039984;-76,57649994
+1615227;Santiago De Cali;VALLE DEL CAUCA;Mercar;Dtt;Smi;SMI M BASIC;Pacifico;Corbeta;;3,399039984;-76,57649994
+1615228;Santiago De Cali;VALLE DEL CAUCA;Surtifamiliar;Dtt;Smi;SMI M BASIC;Pacifico;Corbeta;;3,399039984;-76,57649994
+1615229;Santiago De Cali;VALLE DEL CAUCA;Rapimerque;Dtt;Smi;SMI M PREMIUM;Pacifico;Distrimarcas;;3,399039984;-76,57649994
+1615242;Santiago De Cali;VALLE DEL CAUCA;Mercamio;Dtt;Smi;SMI G BASIC;Pacifico;Corbeta;;3,399039984;-76,57649994
+1615583;Santiago De Cali;VALLE DEL CAUCA;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Pacifico;Distribuidora;;3,399039984;-76,57649994
+1615584;Santiago De Cali;VALLE DEL CAUCA;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Pacifico;Distribuidora;;3,399039984;-76,57649994
+1615585;Santiago De Cali;VALLE DEL CAUCA;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Pacifico;Distribuidora;;3,399039984;-76,57649994
+1615586;Santiago De Cali;VALLE DEL CAUCA;Distribuidora;Dtt;Distribuidora;DISTRIBUIDORA;Pacifico;Distribuidora;;3,413597;-76,530888
+1616344;Cartagena;BOLIVAR;Distrialidos;Dtt;Mayorista;MAYORISTA;Atlantico;Distrialidos;;10,44919968;-75,46990204
+1616345;Cartagena;BOLIVAR;Distrialidos;Dtt;Mayorista;MAYORISTA;Atlantico;Distrialidos;;10,44919968;-75,46990204
+1616346;Cartagena;BOLIVAR;Distrialidos;Dtt;Mayorista;MAYORISTA;Atlantico;Distrialidos;;10,44919968;-75,46990204
+1616347;Cucuta;NORTE DE SANTANDER;Pastor J Cucuta;Dtt;Mayorista;MAYORISTA;Santanderes;Pastor J Cucuta;;8,112030029;-72,48860168
+1616348;Cartagena;BOLIVAR;Distrialidos;Dtt;Mayorista;MAYORISTA;Atlantico;Distrialidos;;10,44919968;-75,46990204
+1616349;Cartagena;BOLIVAR;Distrialidos;Dtt;Mayorista;MAYORISTA;Atlantico;Distrialidos;;10,44919968;-75,46990204
+1616350;Cartagena;BOLIVAR;Distrialidos;Dtt;Mayorista;MAYORISTA;Atlantico;Distrialidos;;10,44919968;-75,46990204
+1616351;Cartagena;BOLIVAR;Distrialidos;Dtt;Mayorista;MAYORISTA;Atlantico;Distrialidos;;10,44919968;-75,46990204
+1616352;Monteria;CORDOBA;Grupo Litoral Monteria;Dtt;Mayorista;MAYORISTA;Atlantico;Grupo Litoral Monteria;;8,742702;-75,888387
+1616353;Monteria;CORDOBA;Grupo Litoral Monteria;Dtt;Mayorista;MAYORISTA;Atlantico;Grupo Litoral Monteria;;8,584699631;-75,95059967
+1616354;Monteria;CORDOBA;Grupo Litoral Monteria;Dtt;Mayorista;MAYORISTA;Atlantico;Grupo Litoral Monteria;;8,743388;-75,887175
+1616355;Monteria;CORDOBA;Grupo Litoral Monteria;Dtt;Mayorista;MAYORISTA;Atlantico;Grupo Litoral Monteria;;9,294288;-75,386335
+1616356;Armenia;QUINDIO;Mercamos;Dtt;Smi;SMI M BASIC;Eje Cafetero;Tropitiendas;;4,522122;-75,686343
+1616357;Armenia;QUINDIO;Mercamos;Dtt;Smi;SMI M BASIC;Eje Cafetero;Tropitiendas;;4,519828;-75,706957
+1616358;Ibague;TOLIMA;Mercacentro;Dtt;Smi;SMI M BASIC;Centro;Tropicana;;4,451920033;-75,25260162
+1616359;Ibague;TOLIMA;Mercacentro;Dtt;Smi;SMI P;Centro;Tropicana;;4,451920033;-75,25260162
+1616360;Ibague;TOLIMA;Surtilima;Dtt;Mayorista;MAYORISTA;Centro;Surtilima;;4,44096;-75,23349
+1616361;Girardot;CUNDINAMARCA;Supermercados K;Dtt;Smi;SMI P;Centro;Surtilima;;4,338150024;-74,81140137
+1616362;Ibague;TOLIMA;Popular;Dtt;Smi;SMI M BASIC;Centro;Surtilima;;4,451920033;-75,25260162
+1616363;Valledupar;CESAR;Pastor J Valledupar;Dtt;Mayorista;MAYORISTA;Atlantico;Pastor J Valledupar;;10,465778;-73,246982
+1616364;Valledupar;CESAR;Mi Futuro;Dtt;Smi;SMI M BASIC;Atlantico;Pastor J Valledupar;;10,47842;-73,2783
+1616365;Valledupar;CESAR;Mi Futuro;Dtt;Smi;SMI M BASIC;Atlantico;Pastor J Valledupar;;10,454452;-73,265162
+1616366;Bucaramanga;SANTANDER;Pricesmart;Mt;Club;CLUB;Santanderes;Pricesmart;;7,155829906;-73,11160278
+1623641;Zipaquira;CUNDINAMARCA;Tropiabastos;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;5,046189785;-74,02310181
+1623642;Zipaquira;CUNDINAMARCA;Tropiabastos;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;5,046189785;-74,02310181
+1623643;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Smi;SMI M BASIC;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1623644;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Smi;SMI M BASIC;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1623645;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Smi;SMI M BASIC;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1623646;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1623647;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1623648;Bogota;BOGOTA D.C;Tropiabastos;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1623649;Santiago De Cali;VALLE DEL CAUCA;Canaveral;Dtt;Smi;SMI G PREMIUM;Pacifico;Corbeta;;3,399039984;-76,57649994
+1623658;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623659;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623660;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623661;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623662;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623663;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623664;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623665;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623666;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623667;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623668;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623669;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623670;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623671;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623672;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623673;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623674;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623675;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623676;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623677;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623678;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623679;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623680;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623681;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623682;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623683;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623684;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623685;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623686;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623687;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623688;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623689;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623690;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623691;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623692;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623693;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623694;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623695;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623696;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623697;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623698;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623699;Bogota;BOGOTA D.C;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,316110134;-74,18109894
+1623700;Bucaramanga;SANTANDER;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Santanderes;Exito Express;;7,155829906;-73,11160278
+1623701;Carmen De Viboral;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Antioquia-Choco;Exito Express;;5,978079796;-75,2634964
+1623702;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Atlantico;Exito Express;;10,44919968;-75,46990204
+1623703;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Atlantico;Exito Express;;10,44919968;-75,46990204
+1623704;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Atlantico;Exito Express;;10,44919968;-75,46990204
+1623706;Cartagena;BOLIVAR;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Atlantico;Exito Express;;10,44919968;-75,46990204
+1623707;Chia;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Cundi-Boyaca;Exito Express;;4,865449905;-74,03690338
+1623708;Covenas;SUCRE;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Atlantico;Exito Express;;9,394450188;-75,65750122
+1623709;Cucuta;NORTE DE SANTANDER;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Santanderes;Exito Express;;8,112030029;-72,48860168
+1623710;Retiro;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Antioquia-Choco;Exito Express;;6,051469803;-75,51570129
+1623712;Envigado;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Antioquia-Choco;Exito Express;;6,153580189;-75,54489899
+1623713;Envigado;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Antioquia-Choco;Exito Express;;6,153580189;-75,54489899
+1623714;Envigado;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Antioquia-Choco;Exito Express;;6,153580189;-75,54489899
+1623715;Envigado;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Antioquia-Choco;Exito Express;;6,153580189;-75,54489899
+1623716;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Antioquia-Choco;Exito Express;;6,257589817;-75,61100006
+1623717;Girardot;CUNDINAMARCA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Centro;Exito Express;;4,338150024;-74,81140137
+1623718;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Antioquia-Choco;Exito Express;;6,257589817;-75,61100006
+1623719;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Antioquia-Choco;Exito Express;;6,257589817;-75,61100006
+1623720;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Antioquia-Choco;Exito Express;;6,257589817;-75,61100006
+1623722;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Antioquia-Choco;Exito Express;;6,257589817;-75,61100006
+1623723;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Antioquia-Choco;Exito Express;;6,257589817;-75,61100006
+1623724;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Antioquia-Choco;Exito Express;;6,257589817;-75,61100006
+1623725;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Antioquia-Choco;Exito Express;;6,257589817;-75,61100006
+1623726;Medellin;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Antioquia-Choco;Exito Express;;6,257589817;-75,61100006
+1623728;Melgar;TOLIMA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Centro;Exito Express;;4,186049938;-74,63780212
+1623729;Rionegro;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Antioquia-Choco;Exito Express;;11,24300003;-72,95880127
+1623730;Santa Marta;MAGDALENA;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Atlantico;Exito Express;;11,1218996;-73,88529968
+1623732;Floridablanca;SANTANDER;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Santanderes;Exito Express;;7,079699993;-73,06800079
+1623735;Villavicencio;META;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Llanos;Exito Express;;4,091670036;-73,49289703
+1623736;Villavicencio;META;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Llanos;Exito Express;;4,091670036;-73,49289703
+1623738;Villavicencio;META;Grupo Comercial exito;Mt;Ka;CONVENIENCE;Llanos;Exito Express;;4,091670036;-73,49289703
+1642664;Cartago;VALLE DEL CAUCA;Olimpica;Mt;Ka;SUPERG PREMIUM;Pacifico;Olimpica Sao;;4,706850052;-75,91790009
+1643394;Santiago De Cali;VALLE DEL CAUCA;La Montana;Dtt;Ka;SMI G PREMIUM;Pacifico;Corbeta;;3,399039984;-76,57649994
+1643395;Santiago De Cali;VALLE DEL CAUCA;La Montana;Dtt;Ka;SMI G PREMIUM;Pacifico;Corbeta;;3,399039984;-76,57649994
+1643396;Santiago De Cali;VALLE DEL CAUCA;La Montana;Dtt;Ka;SMI G PREMIUM;Pacifico;Corbeta;;3,399039984;-76,57649994
+1643397;Santiago De Cali;VALLE DEL CAUCA;La Montana;Dtt;Ka;SMI G PREMIUM;Pacifico;Corbeta;;3,399039984;-76,57649994
+1643398;Pereira;RISARALDA;La Montana;Dtt;Ka;SMI G PREMIUM;Eje Cafetero;Corbeta;;4,802222;-75,69587
+1644512;Valledupar;CESAR;Pastor J Valledupar;Dtt;Mayorista;MAYORISTA;Atlantico;Pastor J Valledupar;;10,465812;-73,247438
+1644514;Bogota;BOGOTA D.C;El Diamante;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1644515;Facatativa;CUNDINAMARCA;La Villetana;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,834050179;-74,33799744
+1644516;Bogota;BOGOTA D.C;Comercial De Viveres San Andres Sas;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1644517;Bogota;BOGOTA D.C;Supermercados 1a Sas;Dtt;Smi;SMI P;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1644518;Bogota;BOGOTA D.C;Surtiplas;Dtt;Mayorista;MAYORISTA;Cundi-Boyaca;Tropiabastos;;4,316110134;-74,18109894
+1644519;Valledupar;CESAR;Pastor J Valledupar;Dtt;Mayorista;MAYORISTA;Atlantico;Pastor J Valledupar;;10,46539;-73,247435
+1644520;Valledupar;CESAR;Pastor J Valledupar;Dtt;Mayorista;MAYORISTA;Atlantico;Pastor J Valledupar;;10,464975;-73,246897
+1644521;Valledupar;CESAR;Pastor J Valledupar;Dtt;Mayorista;MAYORISTA;Atlantico;Pastor J Valledupar;;10,46584;-73,247542
+1644522;Valledupar;CESAR;Pastor J Valledupar;Dtt;Mayorista;MAYORISTA;Atlantico;Pastor J Valledupar;;10,465143;-73,247752
+1644523;Valledupar;CESAR;Pastor J Valledupar;Dtt;Mayorista;MAYORISTA;Atlantico;Pastor J Valledupar;;10,465587;-73,247485
+1644524;Valledupar;CESAR;Pastor J Valledupar;Dtt;Mayorista;MAYORISTA;Atlantico;Pastor J Valledupar;;92,94338;-75,386353
+1644526;Valledupar;CESAR;Pastor J Valledupar;Dtt;Mayorista;MAYORISTA;Atlantico;Pastor J Valledupar;;10,46576;-73,247248
+1644527;Valledupar;CESAR;Pastor J Valledupar;Dtt;Mayorista;MAYORISTA;Atlantico;Pastor J Valledupar;;10,38230038;-73,46309662
+1644528;Valledupar;CESAR;Pastor J Valledupar;Dtt;Mayorista;MAYORISTA;Atlantico;Pastor J Valledupar;;10,465542;-73,247548
+1644529;Valledupar;CESAR;Pastor J Valledupar;Dtt;Mayorista;MAYORISTA;Atlantico;Pastor J Valledupar;;10,465297;-73,247595
+1644530;Barranquilla;ATLANTICO;Olimpica;Dtt;Ka;SUPERG;Atlantico;Olimpica Sto;;10,98149967;-74,82769775
+1644532;Santiago De Cali;VALLE DEL CAUCA;Comfandi;Mt;Ka;SMI M PREMIUM;Pacifico;Comfandi;;3,399039984;-76,57649994
+1644774;Santiago De Cali;VALLE DEL CAUCA;Canaveral;Dtt;Smi;SMI G PREMIUM;Pacifico;Corbeta;;3,399039984;-76,57649994
+1656253;Santa Marta;MAGDALENA;San Isidro;Dtt;Mayorista;MAYORISTA;Atlantico;San Isidro;;11,245683;-74,205518
+1656254;Santa Marta;MAGDALENA;San Isidro;Dtt;Mayorista;MAYORISTA;Atlantico;San Isidro;;11,246103;-74,205228
+1656255;Santa Marta;MAGDALENA;San Isidro;Dtt;Mayorista;MAYORISTA;Atlantico;San Isidro;;11,246012;-74,20523
+1656256;Santa Marta;MAGDALENA;San Isidro;Dtt;Mayorista;MAYORISTA;Atlantico;San Isidro;;11,246147;-74,20525
+1656257;Santa Marta;MAGDALENA;San Isidro;Dtt;Mayorista;MAYORISTA;Atlantico;San Isidro;;11,24605;-74,20699
+1656258;Santa Marta;MAGDALENA;San Isidro;Dtt;Mayorista;MAYORISTA;Atlantico;San Isidro;;11,244808;-74,206068
+1656259;Santa Marta;MAGDALENA;San Isidro;Dtt;Mayorista;MAYORISTA;Atlantico;San Isidro;;11,244597;-74,206403
+1656260;Santa Marta;MAGDALENA;San Isidro;Dtt;Mayorista;MAYORISTA;Atlantico;San Isidro;;11,244478;-74,206882
+1656261;Santa Marta;MAGDALENA;San Isidro;Dtt;Mayorista;MAYORISTA;Atlantico;San Isidro;;11,147803;-74,221192
+1656262;Santa Marta;MAGDALENA;San Isidro;Dtt;Mayorista;MAYORISTA;Atlantico;San Isidro;;11,246445;-74,205097
+1659314;Santiago De Cali;VALLE DEL CAUCA;La Feria;Dtt;Smi;SMI M BASIC;Pacifico;Distrimarcas;;3,520042;-76,517755
+1659315;Buenaventura;VALLE DEL CAUCA;La Montana;Dtt;Ka;SMI G BASIC;Pacifico;Corbeta;;3,611490011;-77,08589935
+1659316;Sincelejo;SUCRE;Surtilineas Del Caribe;Dtt;Mayorista;MAYORISTA;Atlantico;Surtilineas Del Caribe;;9,29556;-75,38591
+1659317;Sincelejo;SUCRE;Surtilineas Del Caribe;Dtt;Mayorista;MAYORISTA;Atlantico;Surtilineas Del Caribe;;9,294912;-75,385517
+1659318;Sincelejo;SUCRE;Surtilineas Del Caribe;Dtt;Mayorista;MAYORISTA;Atlantico;Surtilineas Del Caribe;;9,316670418;-75,43170166
+1659319;Sincelejo;SUCRE;Surtilineas Del Caribe;Dtt;Mayorista;MAYORISTA;Atlantico;Surtilineas Del Caribe;;9,294633;-75,386482
+1659320;Sincelejo;SUCRE;Surtilineas Del Caribe;Dtt;Mayorista;MAYORISTA;Atlantico;Surtilineas Del Caribe;;9,29468;-75,38596
+1659322;Sincelejo;SUCRE;Surtilineas Del Caribe;Dtt;Mayorista;MAYORISTA;Atlantico;Surtilineas Del Caribe;;9,294207;-75,386305
+1659323;Sincelejo;SUCRE;Surtilineas Del Caribe;Dtt;Mayorista;MAYORISTA;Atlantico;Surtilineas Del Caribe;;9,294355;-75,386337
+1665051;Bello;ANTIOQUIA;Grupo Comercial exito;Mt;Ka;HYPER PREMIUM;Antioquia-Choco;Exito;;6,259943;-75,570985
+1709052;Sabaneta;ANTIOQUIA;Vaquita Express;Dtt;Smi;SMI G PREMIUM;Antioquia-Choco;Tropicana;;6,152683;-75,615863
+1709053;Medellin;ANTIOQUIA;Vaquita Express;Dtt;Smi;SMI M BASIC;Antioquia-Choco;Tropicana;;6,185898;-75,655732
+1709055;Medellin;ANTIOQUIA;Vaquita Express;Dtt;Smi;SMI M PREMIUM;Antioquia-Choco;Tropicana;;6,239993;-75,5822
+1712200;Armenia;QUINDIO;La Montana;Dtt;Ka;SMI G PREMIUM;Eje Cafetero;Corbeta;;4,40243;-75,715312
+1740151;Medellin;ANTIOQUIA;Inversiones Euro;Mt;Smi;SMI P;Antioquia-Choco;Inversiones Euro;;6,257589817;-75,61100006
+1740152;Medellin;ANTIOQUIA;Inversiones Euro;Mt;Smi;SMI P;Antioquia-Choco;Inversiones Euro;;6,270067;-75,595327
